@@ -1,3 +1,5 @@
-Take Note!
+----
+LYS's Custom Adguard List
+----
 
-This version 
+![Logo](https://raw.githubusercontent.com/oh-yslim/LYS_AdB/master/.github/logo.png)
