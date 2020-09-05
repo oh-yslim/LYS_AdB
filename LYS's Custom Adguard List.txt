@@ -1,8 +1,9 @@
-# Title: LYS's Custom Adguard List
-# Last modified: 05 Sep 2020
+! Title: LYS's Custom Adguard List
+! Last modified: 05 Sep 2020
 
-#---------------------------------------------------------
+!---------------------------------------------------------
+!@@||
 
-# Added on 05 Sep 2020
-# For Naver(2020)
-@@||naver.com^div[id="footer"]
+! Added on 05 Sep 2020
+! For Naver(2020)
+naver.com###footer
