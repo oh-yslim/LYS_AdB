@@ -11,3 +11,4 @@ naver.com##[class^="logo_special"]
 naver.com##[class^="service_area"]
 naver.com##[id^="NM_NEWSSTAND_VIEW_CONTAINER"]
 naver.com##[id^="footer"]
+!
