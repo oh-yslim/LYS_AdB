@@ -6,7 +6,7 @@
 
 ! Added on 05 Sep 2020
 ! For Naver(2020)
-naver.com##[class^="logo_area"]
+!naver.com##[class^="logo_area"]
 naver.com##[class^="logo_area_"]
 naver.com##[class^="logo_special"]
 naver.com##[class^="service_area"]
