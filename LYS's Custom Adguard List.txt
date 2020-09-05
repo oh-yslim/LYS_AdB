@@ -6,4 +6,4 @@
 
 ! Added on 05 Sep 2020
 ! For Naver(2020)
-naver.com###footer
+naver.com##[id^="footer_"]
