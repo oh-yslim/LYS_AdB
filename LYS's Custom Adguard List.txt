@@ -6,6 +6,6 @@
 
 ! Added on 05 Sep 2020
 ! For Naver(2020)
-naver.com##[class^="service_area"]
-naver.com##[id^="NM_NEWSSTAND_VIEW_CONTAINER"]
-naver.com##[id^="footer"]
+naver.com##[class^="service_are"]
+naver.com##[id^="NM_NEWSSTAND_VIEW_CONTAINE"]
+naver.com##[id^="foote"]
