@@ -7,3 +7,5 @@
 ! Added on 05 Sep 2020
 ! For Naver(2020)
 naver.com##[id^="footer_"]
+naver.com##[class^="service_area"]
+naver.com##[class^="logo_"]
