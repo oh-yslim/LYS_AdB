@@ -1,0 +1,9 @@
+# Title: LYS's Custom Adguard List
+# Last modified: 05 Sep 2020
+
+#---------------------------------------------------------
+127.0.0.1 localhost
+
+# Added on 05 Sep 2020
+# For Naver(2020)
+@@||naver.*^div[id="footer"]

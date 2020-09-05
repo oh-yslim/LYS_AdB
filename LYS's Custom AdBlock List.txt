@@ -1,0 +1,102 @@
+[Adblock Plus 2.0]
+! Title: LYS's Custom AdBlock List
+! Last modified: 07 Jul 2018
+
+!---------------------------------------------------------
+
+! Added on 07 Jul 2018
+! For Namu wiki
+##div[class^="card live-list-card"]
+
+! Added on 16 Mar 2018
+! For google
+##div[id^="hplogo"][style*="display"][style*="height"][style*="width"]
+##div[class^="jsb"][style*="padding"]
+!##input[value*="eeling "][type^="submit"]
+##div[id^="prm-pt"][style*="margin"]
+##span[class^="gsri_a"][id]
+##div[class^="fbar"] > span[id^="fsl"] > a[class]
+##div[class^="fbar"] > span[id^="fsr"] > a[class^="Fx4vi"][href^="//"]
+##div[class^="tsf-p"] > div[class^="nojsv"][id^="logo"]
+##div[class^="fbar"] > span[class] > span[id^="fsl"] > a[class]
+
+!Error Occured
+!#@#div[class^="fbar"] > span[class] > span[id^="fsl"] > a[class][href*="help"]
+
+! Added on 17.Nov.2017
+naver.com##.Flash_det_wrap.activated-detector
+
+! Added on 11.Nov.2017
+thebook.io###buyoptions
+thebook.io##[id*="banner"]
+thebook.io##[id^="mc_embed_signup"]
+thebook.io##.mdl-mega-footer
+thebook.io##[class*="primary"]
+
+
+! Added on 03.Nov.2017
+naver.com##.column_bottom
+naver.com##.area_logo
+naver.com##.ah_item
+naver.com##.ah_roll_area.PM_CL_realtimeKeyword_rolling
+naver.com##.ah_ico_open
+naver.com##.area_newsstand
+naver.com##.column_banner
+naver.com##.section_footer
+naver.com##.area_links
+naver.com##[id^="promotion"]
+naver.com##[id^="da_"]
+naver.com##[class^="banner_"]
+section.cafe.naver.com##.cafemake
+section.cafe.naver.com###cafeReportSideArea
+section.cafe.naver.com##.report
+section.cafe.naver.com###gnbMenu
+section.cafe.naver.com##.menu
+ndrive.naver.com##.clayer-dimmed
+ndrive.naver.com###clayer-group
+
+
+! Added on 03 Nov 2017 Ago
+naver.com##.notice
+naver.com###search_link
+blog.naver.com###suitta_btn
+castbox.shopping.naver.com###shop_wrap
+search.naver.com###r_aside
+opencast.naver.com###footer
+naver.com###ranklist
+search.naver.com###fontset_area
+search.naver.com###socialresultbase
+naver.com##DL[style="margin-top:0px"]
+naver.com###mme_mypage_link
+naver.com###marketing_v2
+naver.com##.cast_link > *
+naver.com###ntc\.svcmap
+cafe.naver.com##[target="cafe_main"] > *
+cafe.naver.com###cafe-intro > *
+naver.com###themecast
+section.cafe.naver.com###cafestoryArea
+naver.com##.gnb
+naver.com###mme_mypage_more
+naver.com##.opcast_article
+naver.com##.opcast_set
+naver.com##.cpg.opcast_pg
+naver.com##.opcast_type
+naver.com###op_list_on
+naver.com##.cast_cnt
+naver.com##DL.policy
+naver.com##ADDRESS:last-child
+ndrive2.naver.com###top_banner
+news.naver.com##.vod_area
+search.naver.com##.ad_section.section._pl_section
+search.naver.com##.ad_section.section._bz_section
+naver.com###promotion1
+cafe.naver.com##.cont_sa
+cafe.naver.com##[id^="cafepopup"]
+search.naver.com##.api_banner *
+naver.com###column_bottom
+naver.com##.column_bn
+cafe.naver.com##.widget-bean
+cafe.naver.com##.box-ww.widget-top
+cafe.naver.com###lm-list
+cafe.naver.com##.group-list
+cafe.naver.com###cafe-footer
