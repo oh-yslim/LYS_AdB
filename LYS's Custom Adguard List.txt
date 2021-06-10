@@ -25,3 +25,4 @@ m.naver.com##[data-issue-banner="ad"]
 m.naver.com##[class="cp_more_wrap cp_show_tablet"]
 m.naver.com###MM_SEARCH_COVID19
 m.naver.com###MM_SEARCH_NOW
+m.naver.com###div.mf_info_wrap > div.mf_info:nth-child(2)
