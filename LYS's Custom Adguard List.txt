@@ -21,11 +21,7 @@ m.naver.com##[id^="sch_region"]
 m.naver.com##[class*="grid1 id_comp_napp_banner"]
 m.naver.com##[class*="promotion"]
 m.naver.com##[class*="anniversary"]
-m/naver.com###MM_SEARCH_COVID19
+m.naver.com##[data-issue-banner="ad"]
+m.naver.com##[class="cp_more_wrap cp_show_tablet"]
+m.naver.com###MM_SEARCH_COVID19
 m.naver.com###MM_SEARCH_NOW
-
-
-! m.naver.com###MM_search_container > div.grid1_wrap.brick-house:first-child > div.brick-vowel:first-child > div.grid1.id_comp_promotion_tablet.cp_show_tablet:last-child
-! m.naver.com###MM_search_container > div.grid1_wrap.brick-house:first-child > div.brick-vowel:nth-child(2) > div.grid1.id_comp_promotion_tablet._MM_HOME_PROMOTION_PROMOTION:last-child
-! m.naver.com###MM_search_container > div.grid1_wrap.brick-house:first-child > div.brick-vowel:last-child > div.grid1.id_comp_promotion_tablet._MM_HOME_PROMOTION_PROMOTION:last-child
-! m.naver.com###mflick > div.flick-wrap > div.flick-panel:first-child > div.scroll_wrap > div.wrap.id_search > div.main_footer:last-child > footer > div.mf_info_wrap > div.mf_info:nth-child(2)
