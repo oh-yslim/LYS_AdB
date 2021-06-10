@@ -17,8 +17,8 @@ naver.com##[id^="footer"]
 ! Added on 10 Jun 2021
 ! For Naver Mobile(2021)
 
-m.naver.com##[div^="sch_region"]
-m.naver.com##[div^="MM_SEARCH_NOW"]
+m.naver.com##[id^="sch_region"]
+m.naver.com##[id^="MM_SEARCH_NOW"]
 
 
 m.naver.com###MM_SEARCH_NOW
