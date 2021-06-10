@@ -17,7 +17,9 @@ naver.com##[id^="footer"]
 ! Added on 10 Jun 2021
 ! For Naver Mobile(2021)
 
-m.naver.com##[id^="sch_region"]
+naver.com##[class="sch_logo"]
+naver.com##[class="sch_region"]
+
 m.naver.com##[class*="grid1 id_comp_napp_banner"]
 m.naver.com##[class*="promotion"]
 m.naver.com##[class*="anniversary"]
