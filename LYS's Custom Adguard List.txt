@@ -22,7 +22,10 @@ m.naver.com##[id^="MM_SEARCH_NOW"]
 m.naver.com##[class^="grid1 id_comp_napp_banner"]
 
 m.naver.com##MM_SEARCH_COVID19
-m.naver.com##[class^="*promotion"]
+!m.naver.com##[class^="*promotion"]
 
-!
+m.naver.com###MM_SEARCH_NOW
+naver.com###MM_SEARCH_COVID19
+naver.com##[class*="anniversary"]
 
+naver.com##div[id*="promotion"]
