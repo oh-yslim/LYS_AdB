@@ -19,7 +19,7 @@ naver.com##[id^="footer"]
 
 m.naver.com##[id^="sch_region"]
 m.naver.com##[id^="MM_SEARCH_NOW"]
-m.naver.com##[class^="class="grid1 id_comp_napp_banner"]
+m.naver.com##[class^="grid1 id_comp_napp_banner"]
 
-m.naver.com###MM_SEARCH_COVID19
-
+m.naver.com##MM_SEARCH_COVID19
+m.naver.com##[class^="*promotion"
