@@ -13,3 +13,14 @@ naver.com##[class^="service_area"]
 naver.com##[id^="NM_NEWSSTAND_VIEW_CONTAINER"]
 naver.com##[id^="footer"]
 !
+
+! Added on 10 Jun 2021
+! For Naver Mobile(2021)
+m.naver.com###MM_SEARCH_NOW
+m.naver.com###MM_search_container > div.grid1_wrap.brick-house:first-child > div.brick-vowel:first-child > div.grid1.id_comp_anniversary_banner:nth-child(3)
+m.naver.com###MM_search_container > div.grid1_wrap.brick-house:first-child > div.brick-vowel:first-child > div.grid1.id_comp_commemoration_banner.ISSUE-BANNER-AD:nth-child(4)
+m.naver.com###MM_SEARCH_COVID19
+m.naver.com###MM_search_container > div.grid1_wrap.brick-house:first-child > div.brick-vowel:first-child > div.grid1.id_comp_napp_banner:nth-child(7)
+m.naver.com###mflick > div.flick-wrap > div.flick-panel:first-child > div.scroll_wrap > div.wrap.id_search > div.main_footer:last-child > footer > div.mf_info_wrap > div.mf_info:nth-child(2)
+m.naver.com###mflick > div.flick-wrap > div.flick-panel:first-child > div.scroll_wrap > div.wrap.id_search > div.main_footer:last-child > footer > div.mf_info_wrap > div.mf_info:last-child
+m.naver.com###MM_logo > div.sch:first-child > section > div.sch_wrap.region_triple > div.sch_inner > form:last-child > div.sch_region:last-child
