@@ -17,12 +17,12 @@ naver.com##[id^="footer"]
 ! Added on 10 Jun 2021
 ! For Naver Mobile(2021)
 
-naver.com##[id^="sch_region"]
-naver.com##MM_SEARCH_COVID19
-naver.com##[class^="grid1 id_comp_napp_banner"]
-naver.com##[class^="*promotion"]
-naver.com##[class*="anniversary"]
-naver.com###MM_SEARCH_NOW
+m.naver.com##[id^="sch_region"]
+m.naver.com##[class*="grid1 id_comp_napp_banner"]
+m.naver.com##[class*="promotion"]
+m.naver.com##[class*="anniversary"]
+m/naver.com###MM_SEARCH_COVID19
+m.naver.com###MM_SEARCH_NOW
 
 
 ! m.naver.com###MM_search_container > div.grid1_wrap.brick-house:first-child > div.brick-vowel:first-child > div.grid1.id_comp_promotion_tablet.cp_show_tablet:last-child
