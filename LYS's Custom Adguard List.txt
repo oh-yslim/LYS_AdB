@@ -18,7 +18,6 @@ naver.com##[id^="footer"]
 ! For Naver Mobile(2021)
 
 m.naver.com##[id^="sch_region"]
-m.naver.com##[id^="MM_SEARCH_NOW"]
 m.naver.com##[class^="grid1 id_comp_napp_banner"]
 
 m.naver.com##MM_SEARCH_COVID19
@@ -28,4 +27,7 @@ m.naver.com###MM_SEARCH_NOW
 naver.com###MM_SEARCH_COVID19
 naver.com##[class*="anniversary"]
 
-naver.com##div[id*="promotion"]
+m.naver.com###MM_search_container > div.grid1_wrap.brick-house:first-child > div.brick-vowel:first-child > div.grid1.id_comp_promotion_tablet.cp_show_tablet:last-child
+m.naver.com###MM_search_container > div.grid1_wrap.brick-house:first-child > div.brick-vowel:nth-child(2) > div.grid1.id_comp_promotion_tablet._MM_HOME_PROMOTION_PROMOTION:last-child
+m.naver.com###MM_search_container > div.grid1_wrap.brick-house:first-child > div.brick-vowel:last-child > div.grid1.id_comp_promotion_tablet._MM_HOME_PROMOTION_PROMOTION:last-child
+m.naver.com###mflick > div.flick-wrap > div.flick-panel:first-child > div.scroll_wrap > div.wrap.id_search > div.main_footer:last-child > footer > div.mf_info_wrap > div.mf_info:nth-child(2)
