@@ -104,7 +104,6 @@ cafe.naver.com###cafe-footer
 ! Merged with LYS's Custom Adguard List
 
 !Merged-Start---------------------------------------------
-
 ! Added on 05 Sep 2020
 ! For Naver(2020)
 naver.com##[class^="logo_area"]
