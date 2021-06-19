@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Title: LYS's Custom AdBlock List
-! Last modified: 07 Jul 2018
+! Title: LYS's Custom AdBlock Plus List
+! Last modified: 19 Jun 2021
 
 !---------------------------------------------------------
 
@@ -32,7 +32,6 @@ thebook.io##[id*="banner"]
 thebook.io##[id^="mc_embed_signup"]
 thebook.io##.mdl-mega-footer
 thebook.io##[class*="primary"]
-
 
 ! Added on 03.Nov.2017
 naver.com##.column_bottom
@@ -102,7 +101,6 @@ cafe.naver.com##.group-list
 cafe.naver.com###cafe-footer
 
 ! Merged with LYS's Custom Adguard List
-
 !Merged-Start---------------------------------------------
 ! Added on 05 Sep 2020
 ! For Naver(2020)
@@ -131,6 +129,5 @@ m.naver.com###div.mf_info_wrap > div.mf_info:nth-child(2)
 
 ! Added on 19 Jun 2021
 ! For F_Company New Web Groupware
-
 !##div[id="portlet_image_slider"]
 ##div[class="bx-wrapper"]
