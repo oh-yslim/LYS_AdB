@@ -131,3 +131,6 @@ m.naver.com###div.mf_info_wrap > div.mf_info:nth-child(2)
 ! For F_Company New Web Groupware
 !##div[id="portlet_image_slider"]
 ##div[class="bx-wrapper"]
+
+
+##div[data-t="{"n":"NativeAd","t":8}"]
