@@ -132,7 +132,8 @@ m.naver.com###div.mf_info_wrap > div.mf_info:nth-child(2)
 !talk.farmsco.com##div[id="portlet_image_slider"]
 talk.farmsco.com##div[class="bx-wrapper"]
 
-
+! Added on 14 Jul 2021
+! For MSN(MS Edge)(2021)
 !ntp.msn.com##div[data-t="{"n":"NativeAd","t":8}"]
 msn.com##div[data-t*="NativeAd"]
 msn.com##div[class^="nativeAd"]
