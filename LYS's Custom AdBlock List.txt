@@ -135,3 +135,4 @@ talk.farmsco.com##div[class="bx-wrapper"]
 
 !ntp.msn.com##div[data-t="{"n":"NativeAd","t":8}"]
 msn.com##div[data-t*="NativeAd"]
+msn.com##div[class^="nativeAd"]
