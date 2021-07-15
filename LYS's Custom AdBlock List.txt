@@ -74,8 +74,12 @@ cafe.naver.com##[target="cafe_main"] > *
 cafe.naver.com###cafe-intro > *
 naver.com###themecast
 section.cafe.naver.com###cafestoryArea
+
 !네이버 이메일 등에서 상단메뉴바--유의미함으로 해제(2021.07.15)
+!상단바 메뉴에서 프로모션류 추가
 !naver.com##.gnb
+naver.com##[class^="gnb_banner"]
+
 naver.com###mme_mypage_more
 naver.com##.opcast_article
 naver.com##.opcast_set
@@ -158,5 +162,10 @@ naver.com##div[class*="_comp_promotion"]
 naver.com##div[data-issue-banner="ad"]
 
 ! For Ndrive - Naver (and Mobile)(2021)
+! 결제현황
+mybox.naver.com##p[class="voucher_info"]
+
+mybox.naver.com##div[class="cmn_promotion_text"]
+mybox.naver.com##div[class="corp_info_area"]
 mybox.naver.com##div[class^="u_crt"]
 mybox.naver.com##div[class="footer_banner"]
