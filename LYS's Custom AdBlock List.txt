@@ -74,7 +74,8 @@ cafe.naver.com##[target="cafe_main"] > *
 cafe.naver.com###cafe-intro > *
 naver.com###themecast
 section.cafe.naver.com###cafestoryArea
-naver.com##.gnb
+!네이버 이메일 등에서 상단메뉴바--유의미함으로 해제(2021.07.15)
+!naver.com##.gnb
 naver.com###mme_mypage_more
 naver.com##.opcast_article
 naver.com##.opcast_set
