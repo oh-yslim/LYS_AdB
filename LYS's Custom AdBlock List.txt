@@ -128,7 +128,6 @@ m.naver.com##[data-issue-banner="ad"]
 m.naver.com##[class="cp_more_wrap cp_show_tablet"]
 naver.com##div[id="MM_SEARCH_COVID19"]
 naver.com##div[id="MM_SEARCH_NOW"]
-m.naver.com###div.mf_info_wrap > div.mf_info:nth-child(2)
 
 !Merged-Ended---------------------------------------------
 
@@ -169,3 +168,9 @@ mybox.naver.com##div[class="cmn_promotion_text"]
 mybox.naver.com##div[class="corp_info_area"]
 mybox.naver.com##div[class^="u_crt"]
 mybox.naver.com##div[class="footer_banner"]
+
+naver.com##a[class="mf_logo_naver"]
+naver.com##a[data-fclk="fot.agreement"]
+naver.com##a[data-fclk="fot.privacy"]
+
+!
