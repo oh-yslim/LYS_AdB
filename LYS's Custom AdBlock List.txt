@@ -121,8 +121,8 @@ m.naver.com##[class*="promotion"]
 m.naver.com##[class*="anniversary"]
 m.naver.com##[data-issue-banner="ad"]
 m.naver.com##[class="cp_more_wrap cp_show_tablet"]
-naver.com###div[id="MM_SEARCH_COVID19"]
-naver.com###div[id="MM_SEARCH_NOW"]
+naver.com##div[id="MM_SEARCH_COVID19"]
+naver.com##div[id="MM_SEARCH_NOW"]
 m.naver.com###div.mf_info_wrap > div.mf_info:nth-child(2)
 
 !Merged-Ended---------------------------------------------
