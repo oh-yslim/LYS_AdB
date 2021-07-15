@@ -156,3 +156,7 @@ naver.com##div[class="nav_wrap"]
 naver.com##div[class*="_comp_promotion"]
 ! 광고?
 naver.com##div[data-issue-banner="ad"]
+
+! For Ndrive - Naver (and Mobile)(2021)
+mybox.naver.com##div[class^="u_crt"]
+mybox.naver.com##div[class="footer_banner"]
