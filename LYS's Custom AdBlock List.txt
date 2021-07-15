@@ -133,7 +133,20 @@ m.naver.com###div.mf_info_wrap > div.mf_info:nth-child(2)
 talk.farmsco.com##div[class="bx-wrapper"]
 
 ! Added on 14 Jul 2021
-! For MSN(MS Edge)(2021)
+! For MSN(MS Edge)(2021) (On Test)
 !ntp.msn.com##div[data-t="{"n":"NativeAd","t":8}"]
 msn.com##div[data-t*="NativeAd"]
 msn.com##div[class^="nativeAd"]
+
+! For Naver (and Mobile)(2021)
+!많이 본 지식백과
+naver.com##section[class*="_fe_keyword_hot"]
+!오른쪽 배너 - 코로나 blabla
+naver.com##div[class^="api_subject_bx"]
+!공란 검색 시 지식인 blabla
+naver.com##div[class^="sp_nkeyword sp_nkeyword_etc"]
+naver.com##div[class="api_random_banner"]
+naver.com##section[class*="_prs_kin_rnd"
+
+api_is_random
+
