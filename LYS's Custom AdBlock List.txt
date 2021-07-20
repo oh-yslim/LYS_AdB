@@ -151,7 +151,8 @@ naver.com##section[class="sc_new"]
 !오른쪽 배너 - 코로나 blabla-error
 !naver.com##div[class^="api_subject_bx"]
 !공란 검색 시 지식인 blabla
-naver.com##section[class*="sp_nkeyword"]
+!naver.com##section[class*="sp_nkeyword"]
+naver.com##[class*="sp_nkeyword"]
 naver.com##div[class*="api_random_banner"]
 naver.com##section[class*="_prs_kdc_rnd"]
 naver.com##section[class*="_prs_kin_rnd"]
