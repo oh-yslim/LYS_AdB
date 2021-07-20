@@ -177,4 +177,7 @@ naver.com##a[class="mf_logo_naver"]
 naver.com##a[data-fclk="fot.agreement"]
 naver.com##a[data-fclk="fot.privacy"]
 
+! 맨 하단 포탈로고
+naver.com##div[class="api_info_service"]
+
 !
