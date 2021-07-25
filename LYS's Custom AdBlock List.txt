@@ -189,4 +189,7 @@ naver.com##div[class="api_info_service"]
 ! For APTI(아파트아이,아파트관리비) Remove Ads
 apti.co.kr##div[id="fBanner"]
 
+! For Shopping - Naver (and Mobile)(2021)
+shopping.naver.com##div[class*="footer"]
+
 !
