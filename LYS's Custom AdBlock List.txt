@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 19 Jun 2021
+! Last modified: 25 Jul 2021
 
 !---------------------------------------------------------
 
@@ -116,6 +116,8 @@ naver.com##[class^="service_area"]
 naver.com##[id^="NM_NEWSSTAND_VIEW_CONTAINER"]
 !naver.com##[id^="footer"]
 ! Mail에서 오류
+! Alternative
+naver.com##div[class="footer_inner"]
 
 ! Added on 10 Jun 2021
 ! For Naver Mobile(2021)
@@ -164,6 +166,8 @@ naver.com##div[class="nav_wrap"]
 naver.com##div[class*="_comp_promotion"]
 ! 광고?
 naver.com##div[data-issue-banner="ad"]
+! For Footer - NEW공지사항|고객센터|결제문의|결제도용신고|신고하기 (25 Jul 2021)
+naver.com##div[class="quick_link"]
 
 ! For Ndrive - Naver (and Mobile)(2021)
 ! 결제현황
