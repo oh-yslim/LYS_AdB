@@ -169,6 +169,8 @@ naver.com##div[class*="_comp_promotion"]
 naver.com##div[data-issue-banner="ad"]
 ! For Footer - NEW공지사항|고객센터|결제문의|결제도용신고|신고하기 (25 Jul 2021)
 naver.com##div[class="quick_link"]
+! Copyright?
+naver.com##div[id*="footer"] > address
 
 ! For Ndrive - Naver (and Mobile)(2021)
 ! 결제현황
