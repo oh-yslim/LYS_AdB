@@ -46,6 +46,7 @@ naver.com##.area_links
 naver.com##[id^="promotion"]
 naver.com##[id^="da_"]
 naver.com##[class^="banner_"]
+naver.com##[class^="banners_"]
 section.cafe.naver.com##.cafemake
 section.cafe.naver.com###cafeReportSideArea
 section.cafe.naver.com##.report
