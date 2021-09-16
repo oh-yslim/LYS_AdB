@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 25 Jul 2021
+! Last modified: 17 Sep 2021
 
 !---------------------------------------------------------
 
@@ -193,5 +193,9 @@ apti.co.kr##div[id="fBanner"]
 
 ! For Shopping - Naver (and Mobile)(2021)
 shopping.naver.com##div[class*="footer"]
+
+! Added on : 17 Sep 2021
+! For DCinside - Prevent Popup (2021)
+dcinside.com^$popup
 
 !
