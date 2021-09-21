@@ -198,4 +198,19 @@ shopping.naver.com##div[class*="footer"]
 ! For DCinside - Prevent Popup (2021)
 dcinside.com^$popup
 
+! Added on : 21 Sep 2021
+! For Daum (2021)
+daum.net##div[class^="wing_tmp"]
+daum.net##div[class^="wrap_tabcont"]
+daum.net##div[class^="section_multi"]
+daum.net##div[class^="section_blog"]
+daum.net##div[class^="section_channel"]
+
+daum.net##div[class^="cont_topic"]
+
+daum.net##div[class^="link_logo"]
+daum.net##div[class^="info_notice"]
+daum.net##div[class^="info_policy"]
+daum.net##small[class^="txt_copyright"]
+
 !
