@@ -200,17 +200,26 @@ dcinside.com^$popup
 
 ! Added on : 21 Sep 2021
 ! For Daum (2021)
-daum.net##h1[class^="ico_vert link_launch"]
+! 상단
+daum.net##a[class^="link_daum"]
+daum.net##a[class^="ico_vert link_launch"]
 daum.net##div[class^="slide_favorsch"]
 
-daum.net##div[class^="wing_tmp"]
+! 중앙-메인
 daum.net##div[class^="wrap_tabcont"]
+daum.net##div[class^="tit_tabcont"]
+daum.net#@#div[class^="tit_tabcont tit_news"]
+daum.net##div[class^="page_pctop page_btype"]
+! 중앙-서브
 daum.net##div[class^="section_multi"]
 daum.net##div[class^="section_blog"]
 daum.net##div[class^="section_channel"]
 
 daum.net##div[class^="cont_topic"]
 
+! 옆면
+daum.net##div[class^="wing_tmp"]
+! 아랫면
 daum.net##a[class^="link_logo"]
 daum.net##div[class^="info_notice"]
 daum.net##div[class^="info_policy"]
