@@ -205,11 +205,33 @@ daum.net##a[class^="link_daum"]
 daum.net##a[class^="ico_vert link_launch"]
 daum.net##div[class^="slide_favorsch"]
 
+!카페~~ 우측 부분 차단
+daum.net##a[class^="txt_pctop link_stock"]
+!daum.net##a[class^="txt_pctop link_shopping"]
+daum.net##a[class^="txt_pctop link_kakaotv"]
+daum.net##a[class^="txt_pctop link_webtoon"]
+daum.net##a[class^="txt_pctop link_blog"]
+daum.net##a[class^="txt_pctop link_brunch"]
+!daum.net##a[class^="txt_pctop link_dic"]
+daum.net##a[class^="txt_pctop link_game"]
+daum.net##a[class^="txt_pctop link_together"]
+!daum.net##a[class^="txt_pctop link_more"]
+
 ! 중앙-메인
-daum.net##div[class^="wrap_tabcont"]
-!daum.net#@#h3[class="tit_tabcont tit_news"]
+!   카페~~ 아래 메인부분 차단
 !daum.net##h3[class^="tit_tabcont"]
-!daum.net##div[class^="page_tabcont"]
+!daum.net#@#h3[class="tit_tabcont tit_news"]
+!  ┕> 뉴스만 예외로 안되서 다른 방법 사용
+
+!daum.net#@##newsTab
+daum.net###entertainTab
+daum.net###sportsTab
+daum.net###movieTab
+daum.net###autoTab
+daum.net###realestateTab
+
+daum.net##div[class^="page_tabcont"]
+daum.net##div[class^="wrap_tabcont"]
 daum.net##div[class^="page_pctop page_btype"]
 
 ! 중앙-서브
