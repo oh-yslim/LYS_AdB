@@ -209,7 +209,7 @@ daum.net##div[class^="slide_favorsch"]
 daum.net##div[class^="wrap_tabcont"]
 !daum.net#@#h3[class="tit_tabcont tit_news"]
 !daum.net##h3[class^="tit_tabcont"]
-daum.net##div[class^="page_tabcont"]
+!daum.net##div[class^="page_tabcont"]
 daum.net##div[class^="page_pctop page_btype"]
 
 ! 중앙-서브
