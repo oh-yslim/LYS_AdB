@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 17 Sep 2021
+! Last modified: 22 Sep 2021
 
 !---------------------------------------------------------
 ! Filters Explaination
@@ -119,7 +119,7 @@ naver.com##[class^="logo_area"]
 naver.com##[class^="logo_area_"]
 naver.com##[class^="logo_special"]
 naver.com##[class^="service_area"]
-naver.com##[id^="NM_NEWSSTAND_VIEW_CONTAINER"]
+naver.com##div[id^="NM_NEWSSTAND_VIEW_CONTAINER"]
 !naver.com##[id^="footer"]
 ! Mail에서 오류
 ! Alternative
@@ -279,5 +279,18 @@ daum.net##a[class^="link_logo"]
 daum.net##div[class^="info_notice"]
 daum.net##div[class^="info_policy"]
 daum.net##small[class^="txt_copyright"]
+
+! Added on : 22 Sep 2021
+! For Naver(Add) (2021)
+naver.com##div[id^="NM_NEWSSTAND_TITLE"]
+! 메뉴바 부분 - 불필요부분 차단
+naver.com##a[data-clk^="svc.blog"]
+naver.com##a[data-clk^="svc.kin"]
+naver.com##a[data-clk^="svc.shoppinglive"]
+naver.com##a[data-clk^="svc.tvcast"]
+naver.com##a[data-clk^="svc.vibe"]
+naver.com##a[data-clk^="svc.book"]
+naver.com##a[data-clk^="entertainment"]
+naver.com##a[data-clk^="sports"]
 
 !
