@@ -218,6 +218,7 @@ daum.net##a[class^="txt_pctop link_together"]
 !daum.net##a[class^="txt_pctop link_more"]
 
 ! 카페~~ 우측 부분 차단 - 더보기 부분 차단
+daum.net##a[data-tiara-layer^="#kakaocorp"]
 
 
 ! 중앙-메인
