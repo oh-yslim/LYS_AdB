@@ -207,7 +207,7 @@ daum.net##div[class^="slide_favorsch"]
 
 ! 중앙-메인
 daum.net##div[class^="wrap_tabcont"]
-daum.net#@#h3[class="tit_tabcont tit_news"]
+!daum.net#@#h3[class="tit_tabcont tit_news"]
 !daum.net##h3[class^="tit_tabcont"]
 daum.net##div[class^="page_tabcont"]
 daum.net##div[class^="page_pctop page_btype"]
@@ -221,6 +221,7 @@ daum.net##div[class^="cont_topic"]
 
 ! 옆면
 daum.net##div[class^="wing_tmp"]
+
 ! 아랫면
 daum.net##a[class^="link_logo"]
 daum.net##div[class^="info_notice"]
