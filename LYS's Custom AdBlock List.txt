@@ -3,6 +3,11 @@
 ! Last modified: 17 Sep 2021
 
 !---------------------------------------------------------
+! Filters Explaination
+! https://adblockplus.org/filter-cheatsheet
+! https://help.eyeo.com/adblockplus/how-to-write-filters
+! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
+!---------------------------------------------------------
 
 ! Added on 07 Jul 2018
 ! For Namu wiki
@@ -218,7 +223,37 @@ daum.net##a[class^="txt_pctop link_together"]
 !daum.net##a[class^="txt_pctop link_more"]
 
 ! 카페~~ 우측 부분 차단 - 더보기 부분 차단
-daum.net##a[data-tiara-layer^="#kakaocorp"]
+! -----Test------
+!daum.net##div[class^="service_layer"] > div[class^="layer_body"] > div[class^="coll_svc"] > dl[class^="sort_service"] > dd > a[data-tiara-layer^="battlegrounds"]
+!  ┕> Test : Full Path -- 작동 OK
+!daum.net##div[class^="service_layer"] > a[data-tiara-layer^="battlegrounds"]
+!daum.net##dl[class^="sort_service"] > a[data-tiara-layer^="battlegrounds"]
+!  ┕> Test : 도중 생략 -- 작동 X
+! ---------------
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="brunch
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="kakaostory
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="entertain
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="sports
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="gift
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="storelive
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="auto
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="emoticon
+!coll_svc 
+!daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="
+!daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="
+!daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="
+
+!daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="battlegrounds"]
+
+
+
+
+!daum.net##a[data-tiara-layer^="#game
+
+!daum.net##a[data-tiara-layer^="#kakaocorp"]
+!daum.net##a[data-tiara-layer^="kakaoai
+!daum.net##a[data-tiara-layer^="kakaobusiness
+
 
 
 ! 중앙-메인
