@@ -230,24 +230,22 @@ daum.net##a[class^="txt_pctop link_together"]
 !daum.net##dl[class^="sort_service"] > a[data-tiara-layer^="battlegrounds"]
 !  ┕> Test : 도중 생략 -- 작동 X
 ! ---------------
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="brunch"]
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="kakaostory"]
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="entertain"]
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="sports"]
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="gift"]
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="storelive"]
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="makers"]
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="auto"]
+daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="emoticon"]
 
-!coll_svc 
-!daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="
-!daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="
-!daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="
-
-!daum.net##dl[class^="sort_service"] > dd > a[data-tiara-layer^="battlegrounds"]
-
-
-
-
-!daum.net##a[data-tiara-layer^="#game
-
-!daum.net##a[data-tiara-layer^="#kakaocorp"]
-!daum.net##a[data-tiara-layer^="kakaoai
-!daum.net##a[data-tiara-layer^="kakaobusiness
-
-
+daum.net##div.coll_svc:nth-child(4)
+!  ┕> 지정한 부분 : 4번째 칸(문화/엔터 ~ 소셜임팩트)
+daum.net##div.coll_svc:nth-child(5) > dl.sort_service:last-child
+!  ┕> 지정한 부분 : 5번째 칸의 아랫부분(게임 >)
+daum.net##div.coll_svc:last-child > dl.sort_service:last-child
+!  ┕> 지정한 부분 : 마지막 칸의 아랫부분(카카오소식 > )
 
 ! 중앙-메인
 !   카페~~ 아래 메인부분 차단
