@@ -295,6 +295,6 @@ naver.com##a[data-clk^="sports"]
 
 ! Added on : 26 Sep 2021
 ! For iptime.org-Admin.Page (2021)
-iptime.org#@%#//scriptlet('set-constant', 'Document.prototype.interestCohort', 'undefined')
-
+!iptime.org#@%#//scriptlet('set-constant', 'Document.prototype.interestCohort', 'undefined')
+iptime.org#@#iframe
 !
