@@ -202,6 +202,7 @@ shopping.naver.com##div[class*="footer"]
 ! Added on : 17 Sep 2021
 ! For DCinside - Prevent Popup (2021)
 !dcinside.com^$popup
+dcinside.com##.btn_blue
 
 ! Added on : 21 Sep 2021
 ! For Daum (2021)
