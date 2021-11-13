@@ -299,4 +299,9 @@ naver.com##a[data-clk^="sports"]
 !iptime.org#@%#//scriptlet('set-constant', 'Document.prototype.interestCohort', 'undefined')
 iptime.org#@#iframe[width="100%"][height="120"]
 
+! Added on : 13 Nov 2021
+! For Daum (2021)
+! 상단 우측
+daum.net##div[class^="head_bnr"]
+
 !
