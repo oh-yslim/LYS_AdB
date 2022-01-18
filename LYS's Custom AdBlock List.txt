@@ -304,4 +304,8 @@ iptime.org#@#iframe[width="100%"][height="120"]
 ! 상단 우측
 daum.net##div[class^="head_bnr"]
 
+! Added on : 18 Jan 2022
+! For Namu (2022)
+namu.wiki##div[class^="Gig2KvAv"]
+
 !
