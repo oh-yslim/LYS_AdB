@@ -308,4 +308,67 @@ daum.net##div[class^="head_bnr"]
 ! For Namu (2022)
 namu.wiki##div[class^="Gig2KvAv"]
 
+! Added on : 18 Feb 2022
+! For GeoHack - Only View Presented By Japan and Korea(2022)
+!geohack.toolforge.org##div[id^="GEOTEMPLATE-"]
+geohack.toolforge.org##h2
+geohack.toolforge.org##span[class="mw-headline"]
+
+!geohack.toolforge.org##div[class="directory"]
+geohack.toolforge.org##table[class="plainlinks geoservices"]
+geohack.toolforge.org##table[class="toc plainlinks"]
+geohack.toolforge.org###GEOTEMPLATE-GLOBAL
+geohack.toolforge.org###GEOTEMPLATE-LOCAL
+!geohack.toolforge.org###GEOTEMPLATE-REGIONS
+geohack.toolforge.org###GEOTEMPLATE-AQ
+geohack.toolforge.org###GEOTEMPLATE-AT
+geohack.toolforge.org###GEOTEMPLATE-AU
+geohack.toolforge.org###GEOTEMPLATE-AZ
+geohack.toolforge.org###GEOTEMPLATE-BG
+geohack.toolforge.org###GEOTEMPLATE-BY
+geohack.toolforge.org###GEOTEMPLATE-CA
+geohack.toolforge.org###GEOTEMPLATE-CH
+geohack.toolforge.org###GEOTEMPLATE-CN
+geohack.toolforge.org###GEOTEMPLATE-CY
+geohack.toolforge.org###GEOTEMPLATE-CZ
+geohack.toolforge.org###GEOTEMPLATE-DK
+geohack.toolforge.org###GEOTEMPLATE-EE
+geohack.toolforge.org###GEOTEMPLATE-ES
+geohack.toolforge.org###GEOTEMPLATE-FI
+geohack.toolforge.org###GEOTEMPLATE-FR
+geohack.toolforge.org###GEOTEMPLATE-GB
+geohack.toolforge.org###GEOTEMPLATE-GR
+geohack.toolforge.org###GEOTEMPLATE-HK
+geohack.toolforge.org###GEOTEMPLATE-IE
+geohack.toolforge.org###GEOTEMPLATE-IL
+geohack.toolforge.org###GEOTEMPLATE-IM
+geohack.toolforge.org###GEOTEMPLATE-IN
+geohack.toolforge.org###GEOTEMPLATE-IR
+geohack.toolforge.org###GEOTEMPLATE-IS
+geohack.toolforge.org###GEOTEMPLATE-IT
+!geohack.toolforge.org###GEOTEMPLATE-JP
+!geohack.toolforge.org###GEOTEMPLATE-KO
+geohack.toolforge.org###GEOTEMPLATE-KZ
+geohack.toolforge.org###GEOTEMPLATE-LI
+geohack.toolforge.org###GEOTEMPLATE-MO
+geohack.toolforge.org###GEOTEMPLATE-NO
+geohack.toolforge.org###GEOTEMPLATE-PL
+geohack.toolforge.org###GEOTEMPLATE-PS
+geohack.toolforge.org###GEOTEMPLATE-PT
+geohack.toolforge.org###GEOTEMPLATE-RU
+geohack.toolforge.org###GEOTEMPLATE-SE
+geohack.toolforge.org###GEOTEMPLATE-SG
+geohack.toolforge.org###GEOTEMPLATE-SI
+geohack.toolforge.org###GEOTEMPLATE-SJ
+geohack.toolforge.org###GEOTEMPLATE-SK
+geohack.toolforge.org###GEOTEMPLATE-TH
+geohack.toolforge.org###GEOTEMPLATE-TW
+geohack.toolforge.org###GEOTEMPLATE-UA
+geohack.toolforge.org###GEOTEMPLATE-US
+geohack.toolforge.org###GEOTEMPLATE-XN
+geohack.toolforge.org###GEOTEMPLATE-XS
+geohack.toolforge.org###GEOTEMPLATE-XZ
+geohack.toolforge.org###GEOTEMPLATE-ZA
+
+
 !
