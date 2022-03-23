@@ -306,7 +306,7 @@ daum.net##div[class^="head_bnr"]
 
 ! Added on : 18 Jan 2022
 ! For Namu (2022)
-namu.wiki##div[class^="Gig2KvAv"]
+!namu.wiki##div[class^="Gig2KvAv"]
 
 ! Added on : 18 Feb 2022
 ! For GeoHack - Only View Presented By Japan and Korea(2022)
