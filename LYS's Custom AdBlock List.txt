@@ -388,5 +388,7 @@ naver.com##a[onclick^="nclk(event,'gnb.elc2"]
 naver.com##a[onclick^="nclk(event,'gnb.premium"]
 ! Specific Category For Top of Page on News
 naver.com##div[class="_aside_wrapper"]
+! 메뉴바 부분 - 불필요부분 차단
+naver.com##a[data-clk^="elc"]
 
 !
