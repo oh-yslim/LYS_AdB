@@ -373,6 +373,11 @@ geohack.toolforge.org###GEOTEMPLATE-ZA
 ! Added on : 28 Apr 2022
 ! For Naver(Add) (2022)
 ! News For Pay
-naver.com##div[data-persist="premium_next_airs_recommend"]
+!naver.com##div[data-persist="premium_next_airs_recommend"]
+
+! Added on : 08 Mar 2022
+! For Naver(Add) (2022)
+! News For Pay
+!naver.com##a[onclick="nclk(event,'gnb.premium','','');"]
 
 !
