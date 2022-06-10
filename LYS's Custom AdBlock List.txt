@@ -11,8 +11,7 @@
 
 ! Added on 07 Jul 2018
 ! For Namu wiki
-! Not Use
-! ##div[class^="card live-list-card"]
+##div[class^="card live-list-card"]
 
 ! Added on 16 Mar 2018
 ! For google
@@ -396,7 +395,7 @@ naver.com##a[data-clk^="elc"]
 ! For Namu wiki
 ! Reference
 ! https://gall.dcinside.com/mgallery/board/view/?id=namuwiki&no=40544
-namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
-namu.wiki###zg0phRRsx > article:first-child > div:nth-child(4) > div > div > div > div > div > div:nth-child(4) > div > div > div > div > div > div > div:last-child > div > div > div > div > div > div > div > div._8o4IFT5P
+! namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
+! namu.wiki###zg0phRRsx > article:first-child > div:nth-child(4) > div > div > div > div > div > div:nth-child(4) > div > div > div > div > div > div > div:last-child > div > div > div > div > div > div > div > div._8o4IFT5P
 
 !
