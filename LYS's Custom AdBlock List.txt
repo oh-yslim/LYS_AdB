@@ -11,7 +11,8 @@
 
 ! Added on 07 Jul 2018
 ! For Namu wiki
-##div[class^="card live-list-card"]
+! Not Use
+! ##div[class^="card live-list-card"]
 
 ! Added on 16 Mar 2018
 ! For google
@@ -390,5 +391,12 @@ naver.com##a[onclick^="nclk(event,'gnb.premium"]
 naver.com##div[class="_aside_wrapper"]
 ! 메뉴바 부분 - 불필요부분 차단
 naver.com##a[data-clk^="elc"]
+
+! Added on 10 Jun 2021
+! For Namu wiki
+! Reference
+! https://gall.dcinside.com/mgallery/board/view/?id=namuwiki&no=40544
+namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
+namu.wiki###zg0phRRsx > article:first-child > div:nth-child(4) > div > div > div > div > div > div:nth-child(4) > div > div > div > div > div > div > div:last-child > div > div > div > div > div > div > div > div._8o4IFT5P
 
 !
