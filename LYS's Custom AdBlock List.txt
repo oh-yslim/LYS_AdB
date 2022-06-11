@@ -398,4 +398,10 @@ naver.com##a[data-clk^="elc"]
 ! namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
 ! namu.wiki###zg0phRRsx > article:first-child > div:nth-child(4) > div > div > div > div > div > div:nth-child(4) > div > div > div > div > div > div > div:last-child > div > div > div > div > div > div > div > div._8o4IFT5P
 
+! Added on 11 Jun 2021
+! For Remiz (Temporary)
+! Reference
+! http://tcafe2a.com/bbs/board.php?bo_table=solve&wr_id=80155
+@@||remiz.co.kr^$important,document
+
 !
