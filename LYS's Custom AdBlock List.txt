@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 22 Sep 2021
+! Last modified: 11 Jun 2022
 
 !---------------------------------------------------------
 ! Filters Explaination
@@ -391,15 +391,15 @@ naver.com##div[class="_aside_wrapper"]
 ! 메뉴바 부분 - 불필요부분 차단
 naver.com##a[data-clk^="elc"]
 
-! Added on 10 Jun 2021
+! Added on 10 Jun 2022
 ! For Namu wiki
 ! Reference
 ! https://gall.dcinside.com/mgallery/board/view/?id=namuwiki&no=40544
 ! namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
 ! namu.wiki###zg0phRRsx > article:first-child > div:nth-child(4) > div > div > div > div > div > div:nth-child(4) > div > div > div > div > div > div > div:last-child > div > div > div > div > div > div > div > div._8o4IFT5P
 
-! Added on 11 Jun 2021
-! For Remiz (Temporary)
+! Added on 11 Jun 2022
+! For Remiz
 ! Reference
 ! http://tcafe2a.com/bbs/board.php?bo_table=solve&wr_id=80155
 @@||remiz.co.kr^$important,document
