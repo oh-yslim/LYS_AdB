@@ -404,4 +404,13 @@ naver.com##a[data-clk^="elc"]
 ! http://tcafe2a.com/bbs/board.php?bo_table=solve&wr_id=80155
 @@||remiz.co.kr^$important,document
 
+
+! Added on 14 Sep 2022
+! For Oppadu - Excel Shortcut Keys
+oppadu.com##[class*="fa-apple"]
+oppadu.com##[class*="fa-star"]
+oppadu.com##[class*="kbd-mac"]
+!oppadu.com##[class*="score w-10p"]
+oppadu.com##[class*="site-footer"]
+
 !
