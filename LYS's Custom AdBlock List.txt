@@ -147,6 +147,7 @@ talk.farmsco.com##div[class="bx-wrapper"]
 !   Added on 25 Oct 2022
 ! talk.farmsco.com##div[class="col logo no_border"]
 ||talk.farmsco.com/egate/resource/resourcelib.nsf/core/resources/images/pt/company_logo.png$domain=talk.farmsco.com
+||talk.farmsco.com/domresource.nsf/core/login/images/login/logo.png$domain=talk.farmsco.com  
 
 ! Added on 14 Jul 2021
 ! For MSN(MS Edge)(2021) (On Test)
