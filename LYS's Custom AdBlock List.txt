@@ -364,7 +364,7 @@ daum.net##div[class^="box_g box_explore"]
 daum.net##div[class^="box_g box_today "]
 daum.net##div[class^="item_toonstock"]
 
-! 아래 방식은 한 번만 동작함 - 취소 처리
+! 아래 방식은 한 번만 동작함 - 2번 이상 동작해야 하는 경우는 쓰지 말 것
 ! daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="mynews"]
 
 daum.net##li[class^="mynews"]
@@ -374,6 +374,8 @@ daum.net##li[class^="women"]
 daum.net##li[class^="tv"]
 daum.net##lli[class^="pet"]
 daum.net##lli[class^="funnwebtoon"]
+
+daum.net##div[class="d_foot"] > ul[class="list_foot"] > small[class^="copr_info"]
 
 !---------------------------------------------------------
 
