@@ -375,7 +375,8 @@ daum.net##li[class^="tv"]
 daum.net##lli[class^="pet"]
 daum.net##lli[class^="funnwebtoon"]
 
-daum.net##div[class="d_foot"] > ul[class="list_foot"] > small[class^="copr_info"]
+! daum.net##div[class="d_foot"] > ul[class="list_foot"] > small[class^="copr_info"]
+daum.net##small[class^="copr_info"]
 
 !---------------------------------------------------------
 
