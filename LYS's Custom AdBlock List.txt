@@ -3,6 +3,9 @@
 ! Last modified: 25 Jan 2023
 
 !---------------------------------------------------------
+! Chrome Inspect Element Tool & Shortcut
+! Ctrl + Shift + C 
+! to open the Developer Tools in Inspect Element mode
 ! Filters Explaination
 ! https://adblockplus.org/filter-cheatsheet
 ! https://help.eyeo.com/adblockplus/how-to-write-filters
@@ -220,6 +223,12 @@ naver.com##div[class="_aside_wrapper"]
 ! 메뉴바 부분 - 불필요부분 차단
 naver.com##a[data-clk^="elc"]
 
+! Added on : 25 Jan 2023
+! 모바일 - 쇼핑라이브
+naver.com##div[id^="MM_SEARCH_SHOP_LIVE"]
+! 모바일 - Greendot
+naver.com##button[id^="MM_GREENDOT"]
+
 !---------------------------------------------------------
 
 ! For thebook.io
@@ -344,6 +353,24 @@ daum.net##small[class^="txt_copyright"]
 ! Added on : 13 Nov 2021
 ! 상단 우측
 daum.net##div[class^="head_bnr"]
+
+! Added on : 25 Jan 2023
+! 모바일 - 오늘의 숏 외
+daum.net##div[class^="box_g _tromm_area"]
+daum.net##div[class^="box_g box_shorts"]
+daum.net##div[class^="box_g box_boon tesla_news"]
+daum.net##div[class^="box_g box_integrate"]
+daum.net##div[class^="box_g box_explore"]
+daum.net##div[class^="box_g box_today "]
+daum.net##div[class^="item_toonstock"]
+
+daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="mynews "]
+daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="enter "]
+daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="sports "]
+daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="women on"]
+daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="tv on"]
+daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="pet"]
+daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="funnwebtoon"]
 
 !---------------------------------------------------------
 
