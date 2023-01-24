@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 25 Oct 2022
+! Last modified: 25 Jan 2023
 
 !---------------------------------------------------------
 ! Filters Explaination
@@ -9,12 +9,25 @@
 ! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
 !---------------------------------------------------------
 
-! Added on 07 Jul 2018
 ! For Namu wiki
+! Added on 07 Jul 2018
 ##div[class^="card live-list-card"]
 
-! Added on 16 Mar 2018
+! Added on : 18 Jan 2022
+!namu.wiki##div[class^="Gig2KvAv"]
+
+! Added on 10 Jun 2022
+! For Namu wiki
+! Reference
+! https://gall.dcinside.com/mgallery/board/view/?id=namuwiki&no=40544
+! namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
+! namu.wiki###zg0phRRsx > article:first-child > div:nth-child(4) > div > div > div > div > div > div:nth-child(4) > div > div > div > div > div > div > div:last-child > div > div > div > div > div > div > div > div._8o4IFT5P
+
+!---------------------------------------------------------
+
 ! For google
+! Added on 16 Mar 2018
+
 ##div[id^="hplogo"][style*="display"][style*="height"][style*="width"]
 ##div[class^="jsb"][style*="padding"]
 !##input[value*="eeling "][type^="submit"]
@@ -28,15 +41,11 @@
 !Error Occured
 !#@#div[class^="fbar"] > span[class] > span[id^="fsl"] > a[class][href*="help"]
 
+!---------------------------------------------------------
+
+! For Naver
 ! Added on 17.Nov.2017
 naver.com##.Flash_det_wrap.activated-detector
-
-! Added on 11.Nov.2017
-thebook.io###buyoptions
-thebook.io##[id*="banner"]
-thebook.io##[id^="mc_embed_signup"]
-thebook.io##.mdl-mega-footer
-thebook.io##[class*="primary"]
 
 ! Added on 03.Nov.2017
 naver.com##.column_bottom
@@ -59,7 +68,6 @@ section.cafe.naver.com###gnbMenu
 section.cafe.naver.com##.menu
 ndrive.naver.com##.clayer-dimmed
 ndrive.naver.com###clayer-group
-
 
 ! Added on 03 Nov 2017 Ago
 naver.com##.notice
@@ -111,10 +119,7 @@ cafe.naver.com###lm-list
 cafe.naver.com##.group-list
 cafe.naver.com###cafe-footer
 
-! Merged with LYS's Custom Adguard List
-!Merged-Start---------------------------------------------
 ! Added on 05 Sep 2020
-! For Naver(2020)
 naver.com##[class^="logo_area"]
 naver.com##[class^="logo_area_"]
 naver.com##[class^="logo_special"]
@@ -126,7 +131,7 @@ naver.com##div[id^="NM_NEWSSTAND_VIEW_CONTAINER"]
 naver.com##div[class="footer_inner"]
 
 ! Added on 10 Jun 2021
-! For Naver Mobile(2021)
+! For Naver Mobile
 naver.com##[class="sch_logo"]
 naver.com##[class="sch_region"]
 
@@ -137,23 +142,6 @@ m.naver.com##[data-issue-banner="ad"]
 m.naver.com##[class="cp_more_wrap cp_show_tablet"]
 naver.com##div[id="MM_SEARCH_COVID19"]
 naver.com##div[id="MM_SEARCH_NOW"]
-
-!Merged-Ended---------------------------------------------
-
-! Added on 19 Jun 2021
-! For F_Company New Web Groupware
-!talk.farmsco.com##div[id="portlet_image_slider"]
-talk.farmsco.com##div[class="bx-wrapper"]
-!   Added on 25 Oct 2022
-! talk.farmsco.com##div[class="col logo no_border"]
-||talk.farmsco.com/egate/resource/resourcelib.nsf/core/resources/images/pt/company_logo.png$domain=talk.farmsco.com
-||talk.farmsco.com/domresource.nsf/core/login/images/login/logo.png$domain=talk.farmsco.com
-
-! Added on 14 Jul 2021
-! For MSN(MS Edge)(2021) (On Test)
-!ntp.msn.com##div[data-t="{"n":"NativeAd","t":8}"]
-msn.com##div[data-t*="NativeAd"]
-msn.com##div[class^="nativeAd"]
 
 ! Added on 15 Jul 2021
 ! For Naver (and Mobile)(2021)
@@ -197,19 +185,87 @@ naver.com##a[data-fclk="fot.privacy"]
 ! 맨 하단 포탈로고
 naver.com##div[class="api_info_service"]
 
-! For APTI(아파트아이,아파트관리비) Remove Ads
-apti.co.kr##div[id="fBanner"]
-
+! Added on 14 Jul 2021
 ! For Shopping - Naver (and Mobile)(2021)
 shopping.naver.com##div[class*="footer"]
 
-! Added on : 17 Sep 2021
+! Added on : 22 Sep 2021
+naver.com##div[id^="NM_NEWSSTAND_TITLE"]
+! 메뉴바 부분 - 불필요부분 차단
+naver.com##a[data-clk^="svc.blog"]
+naver.com##a[data-clk^="svc.kin"]
+naver.com##a[data-clk^="svc.shoppinglive"]
+naver.com##a[data-clk^="svc.tvcast"]
+naver.com##a[data-clk^="svc.vibe"]
+naver.com##a[data-clk^="svc.book"]
+naver.com##a[data-clk^="entertainment"]
+naver.com##a[data-clk^="sports"]
+
+! Added on : 28 Apr 2022
+! News For Pay
+naver.com##div[data-persist="premium_next_airs_recommend"]
+
+! Added on : 08 Mar 2022
+! Specific Category For Top of Page on News
+naver.com##a[data-clk="gnb.entertain"]
+naver.com##a[data-clk="gnb.sports"]
+naver.com##a[data-clk^="gnb.elc"]
+naver.com##a[data-clk="gnb.premium"]
+naver.com##a[onclick^="nclk(event,'gnb.enter"]
+naver.com##a[onclick^="nclk(event,'gnb.sports"]
+naver.com##a[onclick^="nclk(event,'gnb.elc2"]
+naver.com##a[onclick^="nclk(event,'gnb.premium"]
+! Specific Category For Top of Page on News
+naver.com##div[class="_aside_wrapper"]
+! 메뉴바 부분 - 불필요부분 차단
+naver.com##a[data-clk^="elc"]
+
+!---------------------------------------------------------
+
+! For thebook.io
+! Added on 11.Nov.2017
+thebook.io###buyoptions
+thebook.io##[id*="banner"]
+thebook.io##[id^="mc_embed_signup"]
+thebook.io##.mdl-mega-footer
+thebook.io##[class*="primary"]
+
+!---------------------------------------------------------
+
+! For F_Company New Web Groupware
+! Added on 19 Jun 2021
+!talk.farmsco.com##div[id="portlet_image_slider"]
+talk.farmsco.com##div[class="bx-wrapper"]
+! Added on 25 Oct 2022
+! talk.farmsco.com##div[class="col logo no_border"]
+||talk.farmsco.com/egate/resource/resourcelib.nsf/core/resources/images/pt/company_logo.png$domain=talk.farmsco.com
+||talk.farmsco.com/domresource.nsf/core/login/images/login/logo.png$domain=talk.farmsco.com
+
+!---------------------------------------------------------
+
+! For MSN(MS Edge)(2021) (On Test)
+! Added on 14 Jul 2021
+!ntp.msn.com##div[data-t="{"n":"NativeAd","t":8}"]
+msn.com##div[data-t*="NativeAd"]
+msn.com##div[class^="nativeAd"]
+
+!---------------------------------------------------------
+
+! For APTI(아파트아이,아파트관리비) Remove Ads
+! Added on 14 Jul 2021
+apti.co.kr##div[id="fBanner"]
+
+!---------------------------------------------------------
+
 ! For DCinside - Prevent Popup (2021)
+! Added on : 17 Sep 2021
 !dcinside.com^$popup
 dcinside.com##.btn_blue
 
-! Added on : 21 Sep 2021
+!---------------------------------------------------------
+
 ! For Daum (2021)
+! Added on : 21 Sep 2021
 ! 상단
 daum.net##a[class^="link_daum"]
 daum.net##a[class^="ico_vert link_launch"]
@@ -285,35 +341,21 @@ daum.net##div[class^="info_notice"]
 daum.net##div[class^="info_policy"]
 daum.net##small[class^="txt_copyright"]
 
-! Added on : 22 Sep 2021
-! For Naver(Add) (2021)
-naver.com##div[id^="NM_NEWSSTAND_TITLE"]
-! 메뉴바 부분 - 불필요부분 차단
-naver.com##a[data-clk^="svc.blog"]
-naver.com##a[data-clk^="svc.kin"]
-naver.com##a[data-clk^="svc.shoppinglive"]
-naver.com##a[data-clk^="svc.tvcast"]
-naver.com##a[data-clk^="svc.vibe"]
-naver.com##a[data-clk^="svc.book"]
-naver.com##a[data-clk^="entertainment"]
-naver.com##a[data-clk^="sports"]
-
-! Added on : 26 Sep 2021
-! For iptime.org-Admin.Page (2021)
-!iptime.org#@%#//scriptlet('set-constant', 'Document.prototype.interestCohort', 'undefined')
-iptime.org#@#iframe[width="100%"][height="120"]
-
 ! Added on : 13 Nov 2021
-! For Daum (2021)
 ! 상단 우측
 daum.net##div[class^="head_bnr"]
 
-! Added on : 18 Jan 2022
-! For Namu (2022)
-!namu.wiki##div[class^="Gig2KvAv"]
+!---------------------------------------------------------
 
-! Added on : 18 Feb 2022
+! For iptime.org-Admin.Page (2021)
+! Added on : 26 Sep 2021
+!iptime.org#@%#//scriptlet('set-constant', 'Document.prototype.interestCohort', 'undefined')
+iptime.org#@#iframe[width="100%"][height="120"]
+
+!---------------------------------------------------------
+
 ! For GeoHack - Only View Presented By Japan and Korea(2022)
+! Added on : 18 Feb 2022
 !geohack.toolforge.org##div[id^="GEOTEMPLATE-"]
 geohack.toolforge.org##h2
 geohack.toolforge.org##span[class="mw-headline"]
@@ -374,47 +416,22 @@ geohack.toolforge.org###GEOTEMPLATE-XS
 geohack.toolforge.org###GEOTEMPLATE-XZ
 geohack.toolforge.org###GEOTEMPLATE-ZA
 
-! Added on : 28 Apr 2022
-! For Naver(Add) (2022)
-! News For Pay
-naver.com##div[data-persist="premium_next_airs_recommend"]
+!---------------------------------------------------------
 
-! Added on : 08 Mar 2022
-! For Naver(Add) (2022)
-! Specific Category For Top of Page on News
-naver.com##a[data-clk="gnb.entertain"]
-naver.com##a[data-clk="gnb.sports"]
-naver.com##a[data-clk^="gnb.elc"]
-naver.com##a[data-clk="gnb.premium"]
-naver.com##a[onclick^="nclk(event,'gnb.enter"]
-naver.com##a[onclick^="nclk(event,'gnb.sports"]
-naver.com##a[onclick^="nclk(event,'gnb.elc2"]
-naver.com##a[onclick^="nclk(event,'gnb.premium"]
-! Specific Category For Top of Page on News
-naver.com##div[class="_aside_wrapper"]
-! 메뉴바 부분 - 불필요부분 차단
-naver.com##a[data-clk^="elc"]
-
-! Added on 10 Jun 2022
-! For Namu wiki
-! Reference
-! https://gall.dcinside.com/mgallery/board/view/?id=namuwiki&no=40544
-! namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
-! namu.wiki###zg0phRRsx > article:first-child > div:nth-child(4) > div > div > div > div > div > div:nth-child(4) > div > div > div > div > div > div > div:last-child > div > div > div > div > div > div > div > div._8o4IFT5P
-
-! Added on 11 Jun 2022
 ! For Remiz
+! Added on 11 Jun 2022
 ! Reference
 ! http://tcafe2a.com/bbs/board.php?bo_table=solve&wr_id=80155
 @@||remiz.co.kr^$important,document
 
+!---------------------------------------------------------
 
-! Added on 14 Sep 2022
 ! For Oppadu - Excel Shortcut Keys
+! Added on 14 Sep 2022
 oppadu.com##[class*="fa-apple"]
 oppadu.com##[class*="fa-star"]
 oppadu.com##[class*="kbd-mac"]
 !oppadu.com##[class*="score w-10p"]
 oppadu.com##[class*="site-footer"]
 
-!
+!---------------------------------------------------------
