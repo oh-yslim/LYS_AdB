@@ -368,9 +368,10 @@ daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="mynews"]
 daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="enter"]
 daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="sports"]
 daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="women"]
-daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="tv"]
+!daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="tv"]
 daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="pet"]
 daum.net##div[class="slide_menu"] > ul[class="tab_menu"] > li[class^="funnwebtoon"]
+daum.net##li[class^="tv"]
 
 !---------------------------------------------------------
 
