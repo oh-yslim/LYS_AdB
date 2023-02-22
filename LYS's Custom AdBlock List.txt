@@ -249,6 +249,8 @@ talk.farmsco.com##div[class="bx-wrapper"]
 ! talk.farmsco.com##div[class="col logo no_border"]
 ||talk.farmsco.com/egate/resource/resourcelib.nsf/core/resources/images/pt/company_logo.png$domain=talk.farmsco.com
 ||talk.farmsco.com/domresource.nsf/core/login/images/login/logo.png$domain=talk.farmsco.com
+! Added on : 18 Feb 2022
+talk.farmsco.com##div[class="mail_section3"]
 
 !---------------------------------------------------------
 
