@@ -250,7 +250,14 @@ talk.farmsco.com##div[class="bx-wrapper"]
 ||talk.farmsco.com/egate/resource/resourcelib.nsf/core/resources/images/pt/company_logo.png$domain=talk.farmsco.com
 ||talk.farmsco.com/domresource.nsf/core/login/images/login/logo.png$domain=talk.farmsco.com
 ! Added on : 22 Feb 2023
+! For 최근 메일 발신자
 talk.farmsco.com##div[class="mail_section3"]
+! For User Icon
+talk.farmsco.com##img[src^="/egate/global/eip/home/pref.nsf/photo_by_empno/"]
+talk.farmsco.com##img[src$="nophoto.jpg"]
+talk.farmsco.com##span[class^="egate_usericon"]
+!Not Working...
+!||farmsco.com$replace=/(\/egate\/global\/eip\/home\/pref\.nsf\/photo_by_empno\/.*?\.jpg)/(\/egate\/resource\/resourcelib\.nsf\/core\/resources\/images\/img\/img_nophoto\.jpg)/gi,domain=talk.farmsco.com
 
 !---------------------------------------------------------
 
