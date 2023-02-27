@@ -42,7 +42,7 @@
 ##div[class^="fbar"] > span[class] > span[id^="fsl"] > a[class]
 
 !Error Occured
-!#@#div[class^="fbar"] > span[class] > span[id^="fsl"] > a[class][href*="help"]
+! #@#div[class^="fbar"] > span[class] > span[id^="fsl"] > a[class][href*="help"]
 
 !---------------------------------------------------------
 
