@@ -229,6 +229,12 @@ naver.com##div[id^="MM_SEARCH_SHOP_LIVE"]
 ! 모바일 - Greendot
 naver.com##button[id^="MM_GREENDOT"]
 
+! Added on 17 May 2023
+! For Naver(version 20230517)
+naver.com##
+
+
+
 !---------------------------------------------------------
 
 ! For thebook.io
