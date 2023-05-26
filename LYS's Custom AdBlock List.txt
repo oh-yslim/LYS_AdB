@@ -246,7 +246,7 @@ naver.com##div[id^="shortcutArea"]
 !naver.com##div[id^="
 
 ! News
-naver.com##div[^="_premium_recommend_"]
+naver.com##div[class^="_premium_recommend_"]
 
 !---------------------------------------------------------
 
