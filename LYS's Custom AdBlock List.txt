@@ -206,26 +206,6 @@
 !! 모바일 - Greendot
 !naver.com##button[id^="MM_GREENDOT"]
 
-! Added on 26 May 2023
-! For Naver(version 20230517)
-! Main
-naver.com##h1[id^="special-input-logo"]
-naver.com##div[id^="search-right-banner"]
-naver.com##div[id^="feed"]
-naver.com##div[id^="widgetboard"]
-naver.com##div[class^="ContentHeaderView-module__content_header"]
-naver.com##a[class^="ContentHeaderSubView-module"]
-naver.com##div[class^="MediaView-module__media_area"]
-naver.com##div[class^="ContentPagingView-module__content"]
-naver.com##div[id^="footer"]
-naver.com##div[id^="shortcutArea"]
-!naver.com##div[id^="
-
-! News
-naver.com##div[class*="_premium_recommend_"]
-naver.com##div[id*="FOR_UNSUBSCRIBER_PROMOTION"]
-naver.com##p[class^="u_cr"]
-
 ! Added on : 08 Mar 2022
 ! Specific Category For Top of Page on News
 naver.com##a[data-clk="gnb.entertain"]
@@ -249,6 +229,35 @@ naver.com##a[data-clk^="svc.book"]
 naver.com##a[data-clk^="entertainment"]
 naver.com##a[data-clk^="sports"]
 
+! Added on 26 May 2023
+! For Naver(version 20230517)
+! Main
+naver.com##h1[id^="special-input-logo"]
+naver.com##div[id^="search-right-banner"]
+naver.com##div[id^="feed"]
+naver.com##div[id^="widgetboard"]
+naver.com##div[class^="ContentHeaderView-module__content_header"]
+naver.com##a[class^="ContentHeaderSubView-module"]
+naver.com##div[class^="MediaView-module__media_area"]
+naver.com##div[class^="ContentPagingView-module__content"]
+naver.com##div[id^="footer"]
+naver.com##div[id^="shortcutArea"]
+!naver.com##div[id^="
+!naver.com##div[class*="
+
+! News
+naver.com##div[class*="_premium_recommend_"]
+naver.com##div[id*="FOR_UNSUBSCRIBER_PROMOTION"]
+naver.com##p[class^="u_cr"]
+naver.com##div[class*="more_news"]
+naver.com##a[data-clk^="promo"]
+naver.com##div[class*="newsct_journalist"]
+naver.com##div[class*="copyright"]
+naver.com##div[class*="media_end_categorize"]
+naver.com##div[id*="channelBanner"]
+naver.com##div[class*="promotion"]
+naver.com##div[class*="media_end_linked"]
+naver.com##div[class*="likeit_improve"]
 
 !---------------------------------------------------------
 
