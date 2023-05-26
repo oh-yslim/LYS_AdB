@@ -232,6 +232,7 @@
 
 ! Added on 26 May 2023
 ! For Naver(version 20230517)
+! Main
 naver.com##h1[id^="special-input-logo"]
 naver.com##div[id^="search-right-banner"]
 naver.com##div[id^="feed"]
@@ -243,6 +244,9 @@ naver.com##div[class^="ContentPagingView-module__content"]
 naver.com##div[id^="footer"]
 naver.com##div[id^="shortcutArea"]
 !naver.com##div[id^="
+
+! News
+naver.com##div[id^="premium_recommend_"]
 
 !---------------------------------------------------------
 
