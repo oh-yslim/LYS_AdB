@@ -258,6 +258,7 @@ naver.com##div[id*="channelBanner"]
 naver.com##div[class*="promotion"]
 naver.com##div[class*="media_end_linked"]
 naver.com##div[class*="likeit_improve"]
+naver.com##div[data-persist*="premium_next_airs_recommend"]
 
 !---------------------------------------------------------
 
