@@ -195,35 +195,11 @@
 !
 !! Added on : 22 Sep 2021
 !naver.com##div[id^="NM_NEWSSTAND_TITLE"]
-!! 메뉴바 부분 - 불필요부분 차단
-!naver.com##a[data-clk^="svc.blog"]
-!naver.com##a[data-clk^="svc.kin"]
-!naver.com##a[data-clk^="svc.shoppinglive"]
-!naver.com##a[data-clk^="svc.tvcast"]
-!naver.com##a[data-clk^="svc.vibe"]
-!naver.com##a[data-clk^="svc.book"]
-!naver.com##a[data-clk^="entertainment"]
-!naver.com##a[data-clk^="sports"]
-!
+
 !! Added on : 28 Apr 2022
 !! News For Pay
 !naver.com##div[data-persist="premium_next_airs_recommend"]
-!
-!! Added on : 08 Mar 2022
-!! Specific Category For Top of Page on News
-!naver.com##a[data-clk="gnb.entertain"]
-!naver.com##a[data-clk="gnb.sports"]
-!naver.com##a[data-clk^="gnb.elc"]
-!naver.com##a[data-clk="gnb.premium"]
-!naver.com##a[onclick^="nclk(event,'gnb.enter"]
-!naver.com##a[onclick^="nclk(event,'gnb.sports"]
-!naver.com##a[onclick^="nclk(event,'gnb.elc2"]
-!naver.com##a[onclick^="nclk(event,'gnb.premium"]
-!! Specific Category For Top of Page on News
-!naver.com##div[class="_aside_wrapper"]
-!! 메뉴바 부분 - 불필요부분 차단
-!naver.com##a[data-clk^="elc"]
-!
+
 !! Added on : 25 Jan 2023
 !! 모바일 - 쇼핑라이브
 !naver.com##div[id^="MM_SEARCH_SHOP_LIVE"]
@@ -247,6 +223,32 @@ naver.com##div[id^="shortcutArea"]
 
 ! News
 naver.com##div[class*="_premium_recommend_"]
+naver.com##div[id*="FOR_UNSUBSCRIBER_PROMOTION"]
+naver.com##p[class^="u_cr"]
+
+! Added on : 08 Mar 2022
+! Specific Category For Top of Page on News
+naver.com##a[data-clk="gnb.entertain"]
+naver.com##a[data-clk="gnb.sports"]
+naver.com##a[data-clk^="gnb.elc"]
+naver.com##a[data-clk="gnb.premium"]
+naver.com##a[onclick^="nclk(event,'gnb.enter"]
+naver.com##a[onclick^="nclk(event,'gnb.sports"]
+naver.com##a[onclick^="nclk(event,'gnb.elc2"]
+naver.com##a[onclick^="nclk(event,'gnb.premium"]
+! Specific Category For Top of Page on News
+naver.com##div[class="_aside_wrapper"]
+! 메뉴바 부분 - 불필요부분 차단
+naver.com##a[data-clk^="elc"]
+naver.com##a[data-clk^="svc.blog"]
+naver.com##a[data-clk^="svc.kin"]
+naver.com##a[data-clk^="svc.shoppinglive"]
+naver.com##a[data-clk^="svc.tvcast"]
+naver.com##a[data-clk^="svc.vibe"]
+naver.com##a[data-clk^="svc.book"]
+naver.com##a[data-clk^="entertainment"]
+naver.com##a[data-clk^="sports"]
+
 
 !---------------------------------------------------------
 
