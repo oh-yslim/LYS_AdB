@@ -47,193 +47,199 @@
 !---------------------------------------------------------
 
 ! For Naver
-! Added on 17.Nov.2017
-naver.com##.Flash_det_wrap.activated-detector
+!Not Applicablel for Site Revision
+!! Added on 17.Nov.2017
+!naver.com##.Flash_det_wrap.activated-detector
+!
+!! Added on 03.Nov.2017
+!naver.com##.column_bottom
+!naver.com##.area_logo
+!naver.com##.ah_item
+!naver.com##.ah_roll_area.PM_CL_realtimeKeyword_rolling
+!naver.com##.ah_ico_open
+!naver.com##.area_newsstand
+!naver.com##.column_banner
+!naver.com##.section_footer
+!naver.com##.area_links
+!naver.com##[id^="promotion"]
+!naver.com##[id^="da_"]
+!naver.com##[class^="banner_"]
+!naver.com##[class^="banners_"]
+!section.cafe.naver.com##.cafemake
+!section.cafe.naver.com###cafeReportSideArea
+!section.cafe.naver.com##.report
+!section.cafe.naver.com###gnbMenu
+!section.cafe.naver.com##.menu
+!ndrive.naver.com##.clayer-dimmed
+!ndrive.naver.com###clayer-group
+!
+!! Added on 03 Nov 2017 Ago
+!naver.com##.notice
+!naver.com###search_link
+!blog.naver.com###suitta_btn
+!castbox.shopping.naver.com###shop_wrap
+!search.naver.com###r_aside
+!opencast.naver.com###footer
+!naver.com###ranklist
+!search.naver.com###fontset_area
+!search.naver.com###socialresultbase
+!naver.com##DL[style="margin-top:0px"]
+!naver.com###mme_mypage_link
+!naver.com###marketing_v2
+!naver.com##.cast_link > *
+!naver.com###ntc\.svcmap
+!cafe.naver.com##[target="cafe_main"] > *
+!cafe.naver.com###cafe-intro > *
+!naver.com###themecast
+!section.cafe.naver.com###cafestoryArea
+!
+!!네이버 이메일 등에서 상단메뉴바--유의미함으로 해제(2021.07.15)
+!!상단바 메뉴에서 프로모션류 추가
+!!naver.com##.gnb
+!naver.com##[class^="gnb_banner"]
+!
+!naver.com###mme_mypage_more
+!naver.com##.opcast_article
+!naver.com##.opcast_set
+!naver.com##.cpg.opcast_pg
+!naver.com##.opcast_type
+!naver.com###op_list_on
+!naver.com##.cast_cnt
+!naver.com##DL.policy
+!naver.com##ADDRESS:last-child
+!ndrive2.naver.com###top_banner
+!news.naver.com##.vod_area
+!search.naver.com##.ad_section.section._pl_section
+!search.naver.com##.ad_section.section._bz_section
+!naver.com###promotion1
+!cafe.naver.com##.cont_sa
+!cafe.naver.com##[id^="cafepopup"]
+!search.naver.com##.api_banner *
+!naver.com###column_bottom
+!naver.com##.column_bn
+!cafe.naver.com##.widget-bean
+!cafe.naver.com##.box-ww.widget-top
+!cafe.naver.com###lm-list
+!cafe.naver.com##.group-list
+!cafe.naver.com###cafe-footer
+!
+!! Added on 05 Sep 2020
+!naver.com##[class^="logo_area"]
+!naver.com##[class^="logo_area_"]
+!naver.com##[class^="logo_special"]
+!naver.com##[class^="service_area"]
+!naver.com##div[id^="NM_NEWSSTAND_VIEW_CONTAINER"]
+!!naver.com##[id^="footer"]
+!! Mail에서 오류
+!! Alternative
+!naver.com##div[class="footer_inner"]
+!
+!! Added on 10 Jun 2021
+!! For Naver Mobile
+!naver.com##[class="sch_logo"]
+!naver.com##[class="sch_region"]
+!
+!m.naver.com##[class*="grid1 id_comp_napp_banner"]
+!m.naver.com##[class*="promotion"]
+!m.naver.com##[class*="anniversary"]
+!m.naver.com##[data-issue-banner="ad"]
+!m.naver.com##[class="cp_more_wrap cp_show_tablet"]
+!naver.com##div[id="MM_SEARCH_COVID19"]
+!naver.com##div[id="MM_SEARCH_NOW"]
+!
+!! Added on 15 Jul 2021
+!! For Naver (and Mobile)(2021)
+!!검색 우측칸 - 많이 본 지식백과
+!naver.com##section[class*="_fe_keyword_hot"]
+!!검색 우측칸 - 코로나 bla
+!naver.com##section[class="sc_new"]
+!!오른쪽 배너 - 코로나 blabla-error
+!!naver.com##div[class^="api_subject_bx"]
+!!공란 검색 시 지식인 blabla
+!!naver.com##section[class*="sp_nkeyword"]
+!naver.com##[class*="sp_nkeyword"]
+!naver.com##div[class*="api_random_banner"]
+!naver.com##section[class*="_prs_kdc_rnd"]
+!naver.com##section[class*="_prs_kin_rnd"]
+!naver.com##section[class*="api_is_random"]
+!! 모바일-스크롤시 네비바
+!naver.com##div[class="nav_wrap"]
+!! 프로모션바?
+!naver.com##div[class*="_comp_promotion"]
+!! 광고?
+!naver.com##div[data-issue-banner="ad"]
+!! For Footer - NEW공지사항|고객센터|결제문의|결제도용신고|신고하기 (25 Jul 2021)
+!naver.com##div[class="quick_link"]
+!! Copyright?
+!naver.com##div[id*="footer"] > address
+!
+!! For Ndrive - Naver (and Mobile)(2021)
+!! 결제현황
+!mybox.naver.com##p[class="voucher_info"]
+!
+!mybox.naver.com##div[class="cmn_promotion_text"]
+!mybox.naver.com##div[class="corp_info_area"]
+!mybox.naver.com##div[class^="u_crt"]
+!mybox.naver.com##div[class="footer_banner"]
+!
+!naver.com##a[class="mf_logo_naver"]
+!naver.com##a[data-fclk="fot.agreement"]
+!naver.com##a[data-fclk="fot.privacy"]
+!
+!! 맨 하단 포탈로고
+!naver.com##div[class="api_info_service"]
+!
+!! Added on 14 Jul 2021
+!! For Shopping - Naver (and Mobile)(2021)
+!shopping.naver.com##div[class*="footer"]
+!
+!! Added on : 22 Sep 2021
+!naver.com##div[id^="NM_NEWSSTAND_TITLE"]
+!! 메뉴바 부분 - 불필요부분 차단
+!naver.com##a[data-clk^="svc.blog"]
+!naver.com##a[data-clk^="svc.kin"]
+!naver.com##a[data-clk^="svc.shoppinglive"]
+!naver.com##a[data-clk^="svc.tvcast"]
+!naver.com##a[data-clk^="svc.vibe"]
+!naver.com##a[data-clk^="svc.book"]
+!naver.com##a[data-clk^="entertainment"]
+!naver.com##a[data-clk^="sports"]
+!
+!! Added on : 28 Apr 2022
+!! News For Pay
+!naver.com##div[data-persist="premium_next_airs_recommend"]
+!
+!! Added on : 08 Mar 2022
+!! Specific Category For Top of Page on News
+!naver.com##a[data-clk="gnb.entertain"]
+!naver.com##a[data-clk="gnb.sports"]
+!naver.com##a[data-clk^="gnb.elc"]
+!naver.com##a[data-clk="gnb.premium"]
+!naver.com##a[onclick^="nclk(event,'gnb.enter"]
+!naver.com##a[onclick^="nclk(event,'gnb.sports"]
+!naver.com##a[onclick^="nclk(event,'gnb.elc2"]
+!naver.com##a[onclick^="nclk(event,'gnb.premium"]
+!! Specific Category For Top of Page on News
+!naver.com##div[class="_aside_wrapper"]
+!! 메뉴바 부분 - 불필요부분 차단
+!naver.com##a[data-clk^="elc"]
+!
+!! Added on : 25 Jan 2023
+!! 모바일 - 쇼핑라이브
+!naver.com##div[id^="MM_SEARCH_SHOP_LIVE"]
+!! 모바일 - Greendot
+!naver.com##button[id^="MM_GREENDOT"]
 
-! Added on 03.Nov.2017
-naver.com##.column_bottom
-naver.com##.area_logo
-naver.com##.ah_item
-naver.com##.ah_roll_area.PM_CL_realtimeKeyword_rolling
-naver.com##.ah_ico_open
-naver.com##.area_newsstand
-naver.com##.column_banner
-naver.com##.section_footer
-naver.com##.area_links
-naver.com##[id^="promotion"]
-naver.com##[id^="da_"]
-naver.com##[class^="banner_"]
-naver.com##[class^="banners_"]
-section.cafe.naver.com##.cafemake
-section.cafe.naver.com###cafeReportSideArea
-section.cafe.naver.com##.report
-section.cafe.naver.com###gnbMenu
-section.cafe.naver.com##.menu
-ndrive.naver.com##.clayer-dimmed
-ndrive.naver.com###clayer-group
-
-! Added on 03 Nov 2017 Ago
-naver.com##.notice
-naver.com###search_link
-blog.naver.com###suitta_btn
-castbox.shopping.naver.com###shop_wrap
-search.naver.com###r_aside
-opencast.naver.com###footer
-naver.com###ranklist
-search.naver.com###fontset_area
-search.naver.com###socialresultbase
-naver.com##DL[style="margin-top:0px"]
-naver.com###mme_mypage_link
-naver.com###marketing_v2
-naver.com##.cast_link > *
-naver.com###ntc\.svcmap
-cafe.naver.com##[target="cafe_main"] > *
-cafe.naver.com###cafe-intro > *
-naver.com###themecast
-section.cafe.naver.com###cafestoryArea
-
-!네이버 이메일 등에서 상단메뉴바--유의미함으로 해제(2021.07.15)
-!상단바 메뉴에서 프로모션류 추가
-!naver.com##.gnb
-naver.com##[class^="gnb_banner"]
-
-naver.com###mme_mypage_more
-naver.com##.opcast_article
-naver.com##.opcast_set
-naver.com##.cpg.opcast_pg
-naver.com##.opcast_type
-naver.com###op_list_on
-naver.com##.cast_cnt
-naver.com##DL.policy
-naver.com##ADDRESS:last-child
-ndrive2.naver.com###top_banner
-news.naver.com##.vod_area
-search.naver.com##.ad_section.section._pl_section
-search.naver.com##.ad_section.section._bz_section
-naver.com###promotion1
-cafe.naver.com##.cont_sa
-cafe.naver.com##[id^="cafepopup"]
-search.naver.com##.api_banner *
-naver.com###column_bottom
-naver.com##.column_bn
-cafe.naver.com##.widget-bean
-cafe.naver.com##.box-ww.widget-top
-cafe.naver.com###lm-list
-cafe.naver.com##.group-list
-cafe.naver.com###cafe-footer
-
-! Added on 05 Sep 2020
-naver.com##[class^="logo_area"]
-naver.com##[class^="logo_area_"]
-naver.com##[class^="logo_special"]
-naver.com##[class^="service_area"]
-naver.com##div[id^="NM_NEWSSTAND_VIEW_CONTAINER"]
-!naver.com##[id^="footer"]
-! Mail에서 오류
-! Alternative
-naver.com##div[class="footer_inner"]
-
-! Added on 10 Jun 2021
-! For Naver Mobile
-naver.com##[class="sch_logo"]
-naver.com##[class="sch_region"]
-
-m.naver.com##[class*="grid1 id_comp_napp_banner"]
-m.naver.com##[class*="promotion"]
-m.naver.com##[class*="anniversary"]
-m.naver.com##[data-issue-banner="ad"]
-m.naver.com##[class="cp_more_wrap cp_show_tablet"]
-naver.com##div[id="MM_SEARCH_COVID19"]
-naver.com##div[id="MM_SEARCH_NOW"]
-
-! Added on 15 Jul 2021
-! For Naver (and Mobile)(2021)
-!검색 우측칸 - 많이 본 지식백과
-naver.com##section[class*="_fe_keyword_hot"]
-!검색 우측칸 - 코로나 bla
-naver.com##section[class="sc_new"]
-!오른쪽 배너 - 코로나 blabla-error
-!naver.com##div[class^="api_subject_bx"]
-!공란 검색 시 지식인 blabla
-!naver.com##section[class*="sp_nkeyword"]
-naver.com##[class*="sp_nkeyword"]
-naver.com##div[class*="api_random_banner"]
-naver.com##section[class*="_prs_kdc_rnd"]
-naver.com##section[class*="_prs_kin_rnd"]
-naver.com##section[class*="api_is_random"]
-! 모바일-스크롤시 네비바
-naver.com##div[class="nav_wrap"]
-! 프로모션바?
-naver.com##div[class*="_comp_promotion"]
-! 광고?
-naver.com##div[data-issue-banner="ad"]
-! For Footer - NEW공지사항|고객센터|결제문의|결제도용신고|신고하기 (25 Jul 2021)
-naver.com##div[class="quick_link"]
-! Copyright?
-naver.com##div[id*="footer"] > address
-
-! For Ndrive - Naver (and Mobile)(2021)
-! 결제현황
-mybox.naver.com##p[class="voucher_info"]
-
-mybox.naver.com##div[class="cmn_promotion_text"]
-mybox.naver.com##div[class="corp_info_area"]
-mybox.naver.com##div[class^="u_crt"]
-mybox.naver.com##div[class="footer_banner"]
-
-naver.com##a[class="mf_logo_naver"]
-naver.com##a[data-fclk="fot.agreement"]
-naver.com##a[data-fclk="fot.privacy"]
-
-! 맨 하단 포탈로고
-naver.com##div[class="api_info_service"]
-
-! Added on 14 Jul 2021
-! For Shopping - Naver (and Mobile)(2021)
-shopping.naver.com##div[class*="footer"]
-
-! Added on : 22 Sep 2021
-naver.com##div[id^="NM_NEWSSTAND_TITLE"]
-! 메뉴바 부분 - 불필요부분 차단
-naver.com##a[data-clk^="svc.blog"]
-naver.com##a[data-clk^="svc.kin"]
-naver.com##a[data-clk^="svc.shoppinglive"]
-naver.com##a[data-clk^="svc.tvcast"]
-naver.com##a[data-clk^="svc.vibe"]
-naver.com##a[data-clk^="svc.book"]
-naver.com##a[data-clk^="entertainment"]
-naver.com##a[data-clk^="sports"]
-
-! Added on : 28 Apr 2022
-! News For Pay
-naver.com##div[data-persist="premium_next_airs_recommend"]
-
-! Added on : 08 Mar 2022
-! Specific Category For Top of Page on News
-naver.com##a[data-clk="gnb.entertain"]
-naver.com##a[data-clk="gnb.sports"]
-naver.com##a[data-clk^="gnb.elc"]
-naver.com##a[data-clk="gnb.premium"]
-naver.com##a[onclick^="nclk(event,'gnb.enter"]
-naver.com##a[onclick^="nclk(event,'gnb.sports"]
-naver.com##a[onclick^="nclk(event,'gnb.elc2"]
-naver.com##a[onclick^="nclk(event,'gnb.premium"]
-! Specific Category For Top of Page on News
-naver.com##div[class="_aside_wrapper"]
-! 메뉴바 부분 - 불필요부분 차단
-naver.com##a[data-clk^="elc"]
-
-! Added on : 25 Jan 2023
-! 모바일 - 쇼핑라이브
-naver.com##div[id^="MM_SEARCH_SHOP_LIVE"]
-! 모바일 - Greendot
-naver.com##button[id^="MM_GREENDOT"]
-
-! Added on 17 May 2023
+! Added on 26 May 2023
 ! For Naver(version 20230517)
-naver.com##
-
-
+naver.com##div[id^="search-right-banner"]
+naver.com##div[id^="feed"]
+naver.com##div[id^="widgetboard"]
+naver.com##div[class^="ContentHeaderView-module__content_header"]
+naver.com##div[class^="MediaView-module__media_area"]
+naver.com##div[class^="ContentPagingView-module__content"]
+!naver.com##div[id^="
+!naver.com##div[id^="
 
 !---------------------------------------------------------
 
