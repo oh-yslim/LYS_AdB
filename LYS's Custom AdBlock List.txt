@@ -238,7 +238,7 @@ naver.com##div[id^="widgetboard"]
 naver.com##div[class^="ContentHeaderView-module__content_header"]
 naver.com##div[class^="MediaView-module__media_area"]
 naver.com##div[class^="ContentPagingView-module__content"]
-!naver.com##div[id^="
+naver.com##div[id^="footer"]
 !naver.com##div[id^="
 
 !---------------------------------------------------------
