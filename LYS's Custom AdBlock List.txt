@@ -516,3 +516,11 @@ oppadu.com##[class*="kbd-mac"]
 oppadu.com##[class*="site-footer"]
 
 !---------------------------------------------------------
+
+! For Youtube Chrome Extension
+! Added on 29 May 2023
+! Multiselect for YouTube™ - v3
+! https://chrome-stats.com/d/gpgbiinpmelaihndlegbgfkmnpofgfei
+youtube.com##[id*="-donate-"]
+
+!---------------------------------------------------------
