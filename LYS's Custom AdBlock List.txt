@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 25 Jan 2023
+! Last modified: 29 May 2023
 
 !---------------------------------------------------------
 ! Chrome Inspect Element Tool & Shortcut
