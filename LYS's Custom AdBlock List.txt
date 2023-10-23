@@ -272,8 +272,9 @@ naver.com##a[class*="gnb.premium"]
 !! For Naver Mobile
 ! (모바일 화면 포함) 검색창 - 지식in 및 지식백과
 search.naver.com##div[class*="sp_nkeyword_random"]
-search.naver.com##div[class*="_fe_popular_headings_bottom"]
+search.naver.com##section[class*="_fe_popular_headings"]
 search.naver.com##section[class*="api_is_random"]
+search.naver.com##section[class^="sc_new"]
 
 ! 모바일 화면 아랫부분 불필요내용 - 쇼핑, etc.
 naver.com##div[class*="comp_shortform_new"]
