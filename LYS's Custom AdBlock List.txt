@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 23 Oct 2023
+! Last modified: 24 Oct 2023
 
 !---------------------------------------------------------
 ! Chrome Inspect Element Tool & Shortcut
@@ -227,9 +227,9 @@
 
 !! Added on : 25 Jan 2023
 !! 모바일 - 쇼핑라이브
-!naver.com##div[id^="MM_SEARCH_SHOP_LIVE"]
+naver.com##div[id^="MM_SEARCH_SHOP_LIVE"]
 !! 모바일 - Greendot
-!naver.com##button[id^="MM_GREENDOT"]
+naver.com##button[id^="MM_GREENDOT"]
 
 ! Added on 26 May 2023
 ! For Naver(version 20230517)
@@ -268,16 +268,16 @@ naver.com##a[class*="gnb.sports"]
 naver.com##a[class*="gnb.elc"]
 naver.com##a[class*="gnb.premium"]
 
-! Added on 23 Oct 2023
+! Added on 24 Oct 2023
 !! For Naver Mobile
 ! (모바일 화면 포함) 검색창 - 지식in 및 지식백과
-! search.naver.com##div[id="ct"]
 search.naver.com##div[class*="sp_nkeyword_random"]
+search.naver.com##div[class*="_fe_popular_headings_bottom"]
 search.naver.com##section[class*="api_is_random"]
-! search.naver.com##div[id="aside"]
 
 ! 모바일 화면 아랫부분 불필요내용 - 쇼핑, etc.
-m.naver.com##div[id^="grid1"]
+naver.com##div[class*="comp_shortform_new"]
+naver.com##div[class*="comp_napp_banner comp_card"]
 
 
 !---------------------------------------------------------
