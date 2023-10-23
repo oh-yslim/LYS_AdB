@@ -145,7 +145,7 @@
 !m.naver.com##[data-issue-banner="ad"]
 !m.naver.com##[class="cp_more_wrap cp_show_tablet"]
 !naver.com##div[id="MM_SEARCH_COVID19"]
-!naver.com##div[id="MM_SEARCH_NOW"]
+naver.com##div[id="MM_SEARCH_NOW"]
 !
 !! Added on 15 Jul 2021
 !! For Naver (and Mobile)(2021)
