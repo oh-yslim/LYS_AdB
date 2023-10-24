@@ -274,7 +274,7 @@ naver.com##a[class*="gnb.premium"]
 search.naver.com##div[class*="sp_nkeyword_random"]
 search.naver.com##section[class*="_fe_popular_headings"]
 search.naver.com##section[class*="api_is_random"]
-search.naver.com##section[class^="sc_new"]
+search.naver.com##div[class^="sub_pack"]
 
 ! (모바일 화면 포함) 윗 부분
 naver.com##div[class^="pay_area"]
