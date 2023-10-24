@@ -269,18 +269,21 @@ naver.com##a[class*="gnb.elc"]
 naver.com##a[class*="gnb.premium"]
 
 ! Added on 24 Oct 2023
-!! For Naver Mobile
+!! For Naver & Mobile
 ! (모바일 화면 포함) 검색창 - 지식in 및 지식백과
 search.naver.com##div[class*="sp_nkeyword_random"]
 search.naver.com##section[class*="_fe_popular_headings"]
 search.naver.com##section[class*="api_is_random"]
 search.naver.com##section[class^="sc_new"]
 
-! 모바일 화면 - 윗 부분
-naver.com##a[class^="sha_npay_link"]
-naver.com##a[class*="sch_logo_naver"]
-naver.com##div[class^="sch_region"]
-naver.com##div[class^="sch_home_mydata"]
+! (모바일 화면 포함) 윗 부분
+naver.com##div[class^="pay_area"]
+naver.com##div[class^="talk_area"]
+naver.com##div[class^="notify_area"]
+m.naver.com##a[class^="sha_npay_link"]
+m.naver.com##a[class*="sch_logo_naver"]
+m.naver.com##div[class^="sch_region"]
+m.naver.com##div[class^="sch_home_mydata"]
 
 ! 모바일 화면 아랫부분 불필요내용 - 쇼핑, etc.
 naver.com##div[class*="comp_shortform_new"]
