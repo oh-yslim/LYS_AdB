@@ -286,6 +286,14 @@ naver.com##div[class^="sch_home_mydata"]
 naver.com##div[class*="comp_shortform_new"]
 naver.com##div[class*="comp_napp_banner comp_card"]
 
+! 모바일 화면 - 햄버거 버튼(☰) 메뉴 확장
+naver.com##li:contains(스포츠)[class*="ssc_service_item"]
+naver.com##li:contains(TV연예)[class*="ssc_service_item"]
+
+naver.com##div[class*="ss_service_enter"]
+naver.com##div[class*="ss_service_membership"]
+naver.com##div[class*="ss_service_certification"]
+naver.com##div[class*="ss_service_partner"]
 
 !---------------------------------------------------------
 
