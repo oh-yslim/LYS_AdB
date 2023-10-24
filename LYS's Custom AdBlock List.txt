@@ -276,6 +276,12 @@ search.naver.com##section[class*="_fe_popular_headings"]
 search.naver.com##section[class*="api_is_random"]
 search.naver.com##section[class^="sc_new"]
 
+! 모바일 화면 - 윗 부분
+naver.com##a[class^="sha_npay_link"]
+naver.com##a[class*="sch_logo_naver"]
+naver.com##div[class^="sch_region"]
+naver.com##div[class^="sch_home_mydata"]
+
 ! 모바일 화면 아랫부분 불필요내용 - 쇼핑, etc.
 naver.com##div[class*="comp_shortform_new"]
 naver.com##div[class*="comp_napp_banner comp_card"]
