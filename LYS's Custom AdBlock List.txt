@@ -287,7 +287,7 @@ naver.com##div[class*="comp_shortform_new"]
 naver.com##div[class*="comp_napp_banner comp_card"]
 
 ! 모바일 화면 - 햄버거 버튼(☰) 메뉴 확장
-naver.com##ssc_service_area[-ext-contains="스포츠"]
+naver.com##li[class="ssc_service_item"][-ext-contains="스포츠"]
 
 naver.com##div[class*="ss_service_enter"]
 naver.com##div[class*="ss_service_membership"]
