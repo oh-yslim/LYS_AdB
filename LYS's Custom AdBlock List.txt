@@ -271,7 +271,7 @@ naver.com##a[class*="gnb.premium"]
 ! Added on 24 Oct 2023
 !! For Naver & Mobile
 ! (모바일 화면 포함) 검색창 - 지식in 및 지식백과
-search.naver.com##div[class*="sp_nkeyword_random"]
+search.naver.com##section[class*="sp_nkeyword"]
 search.naver.com##section[class*="_fe_popular_headings"]
 search.naver.com##section[class*="api_is_random"]
 search.naver.com##div[class^="sub_pack"]
