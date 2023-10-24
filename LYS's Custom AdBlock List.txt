@@ -290,6 +290,8 @@ naver.com##div[class*="comp_napp_banner comp_card"]
 ! naver.com##li[class="ssc_service_item"]:matches-css(innerText: "스포츠")
 ! naver.com##li:contains("TV연예")[class*="ssc_service_item"]
 
+naver.com##li[class="ssc_service_item"][-ext-contains="스포츠"]
+
 naver.com##li[class="ssc_service_item"] > a[href*="sports"]
 naver.com##li[class="ssc_service_item"] > a[href*="entertain"]
 naver.com##li[class="ssc_service_item"] > a[href*="gift/"]
