@@ -310,7 +310,7 @@ naver.com##div[class*="ss_service_partner"]
 
 ! 뉴스 페이지 - 불필요 배너 제거
 news.naver.com##div[class="snb_banner"]
-news.naver.com##div[class="section"] > div[class="banner"]
+news.naver.com##div[class="section"] > [class*="banner"]
 
 ! Added on 25 Oct 2023
 !! For Naver & Mobile
