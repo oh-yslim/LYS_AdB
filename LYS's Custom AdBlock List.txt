@@ -312,6 +312,7 @@ naver.com##div[class*="ss_service_partner"]
 news.naver.com##div[class="snb_banner"]
 news.naver.com##div[class="section"] > [class*="banner"]
 news.naver.com##div[class*="rankingnews as_type_subscribe"]
+news.naver.com##div[class*="news_common_aside _contents"]
 
 ! Added on 25 Oct 2023
 !! For Naver & Mobile
