@@ -323,7 +323,7 @@ m.naver.com##div[class="sch_background"]
 
 ! Added on 06 Feb 2024
 !! For Naver - Mobile
-m.naver.com##div[class="MM_search_container"]
+m.naver.com##div[id="MM_search_container"]
 
 !---------------------------------------------------------
 
