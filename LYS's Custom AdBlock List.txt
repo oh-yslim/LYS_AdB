@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 25 Oct 2023
+! Last modified: 06 Feb 2024
 
 !---------------------------------------------------------
 ! Chrome Inspect Element Tool & Shortcut
@@ -320,6 +320,10 @@ news.naver.com##div[class*="col2_banner"]
 ! Logo 제거 (Special인경우)
 naver.com##div[class="event_bg"]
 m.naver.com##div[class="sch_background"]
+
+! Added on 06 Feb 2024
+!! For Naver - Mobile
+m.naver.com##div[class="MM_search_container"]
 
 !---------------------------------------------------------
 
