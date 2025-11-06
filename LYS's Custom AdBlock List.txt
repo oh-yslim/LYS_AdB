@@ -362,14 +362,14 @@ talk.farmsco.com##span[class^="egate_usericon"]
 farmsco.com##h1[class*="login"]
 farmsco.com##img[src*="login"]
 farmsco.com##img[src*="lock_logo"]
-||farmsco.com/favicon.ico^$image
+||farmsco.com/favicon.$image
 
 ! For H_Company New Web Sites
 ! Added on 06 Nov 2025
 oneharim.com##img[src*="harim-logo"]
 oneharim.com##img[src*="harim_logo"]
 oneharim.com##div[class*="visual-login"]
-||oneharim.com/favicon.ico^$image
+||oneharim.com/favicon.$image
 
 !---------------------------------------------------------
 
@@ -597,6 +597,7 @@ oppadu.com##[class*="site-footer"]
 youtube.com##[id*="-donate-"]
 
 !---------------------------------------------------------
+
 
 
 
