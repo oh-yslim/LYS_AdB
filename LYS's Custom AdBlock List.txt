@@ -361,6 +361,7 @@ talk.farmsco.com##span[class^="egate_usericon"]
 !||farmsco.com$replace=/(\/egate\/global\/eip\/home\/pref\.nsf\/photo_by_empno\/.*?\.jpg)/(\/egate\/resource\/resourcelib\.nsf\/core\/resources\/images\/img\/img_nophoto\.jpg)/gi,domain=talk.farmsco.com
 farmsco.com##h1[class*="login"]
 farmsco.com##img[src*="login"]
+farmsco.com##img[src*="lock_logo"]
 
 ! For H_Company New Web Sites
 ! Added on 06 Nov 2025
@@ -594,6 +595,7 @@ oppadu.com##[class*="site-footer"]
 youtube.com##[id*="-donate-"]
 
 !---------------------------------------------------------
+
 
 
 
