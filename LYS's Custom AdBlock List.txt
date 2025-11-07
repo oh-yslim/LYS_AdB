@@ -368,6 +368,7 @@ farmsco.com##img[src*="lock_logo"]
 ! Added on 06 Nov 2025
 oneharim.com##img[src*="harim-logo"]
 oneharim.com##img[src*="harim_logo"]
+oneharim.com##img[src*="login"]
 oneharim.com##div[class*="visual-login"]
 ||oneharim.com/favicon.$image
 
