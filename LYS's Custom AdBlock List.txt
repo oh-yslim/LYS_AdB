@@ -598,6 +598,14 @@ youtube.com##[id*="-donate-"]
 
 !---------------------------------------------------------
 
+! For SkyScanner
+! Added on 09 Nov 2025
+skyscanner.*##a[class*="hotelLink"]
+skyscanner.*##[class^="SingleAdvertCard"]
+
+!---------------------------------------------------------
+
+
 
 
 
