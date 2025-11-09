@@ -603,9 +603,10 @@ youtube.com##[id*="-donate-"]
 skyscanner.*##a[class*="hotelLink"]
 skyscanner.*##[class*="advert"]
 skyscanner.*##[class*="InlineTextBanner"]
-skyscanner.*##[class*="accommodation"]
+skyscanner.*##[class*="Recommendation"]
 
 !---------------------------------------------------------
+
 
 
 
