@@ -602,8 +602,11 @@ youtube.com##[id*="-donate-"]
 ! Added on 09 Nov 2025
 skyscanner.*##a[class*="hotelLink"]
 skyscanner.*##[class*="advert"]
+skyscanner.*##[class*="InlineTextBanner"]
+skyscanner.*##[class*="accommodation"]
 
 !---------------------------------------------------------
+
 
 
 
