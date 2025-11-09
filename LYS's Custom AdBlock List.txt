@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 06 Nov 2025
+! Last modified: 10 Nov 2025
 
 !---------------------------------------------------------
 ! Chrome Inspect Element Tool & Shortcut
@@ -601,9 +601,10 @@ youtube.com##[id*="-donate-"]
 ! For SkyScanner
 ! Added on 09 Nov 2025
 skyscanner.*##a[class*="hotelLink"]
-skyscanner.*##[class^="SingleAdvertCard"]
+skyscanner.*##[class*="advert"]
 
 !---------------------------------------------------------
+
 
 
 
