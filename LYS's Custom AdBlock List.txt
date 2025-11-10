@@ -366,27 +366,27 @@ farmsco.com##img[src*="lock_logo"]
 
 ! For H_Company New Web Sites
 ! Added on 06 Nov 2025
-oneharim.com##img[src*="logo"]
-oneharim.com##img[src*="login"]
-oneharim.com##div[class*="visual-login"]
-ehr.oneharim.com##div[class="mt16"]
-ehr.oneharim.com##div[class*="logo"]
-ehr.oneharim.com##img[src*="EmpPhoto"]
+oneharim.com##img[src*="logo" i]
+oneharim.com##img[src*="login" i]
+oneharim.com##div[class*="visual-login" i]
+ehr.oneharim.com##div[class="mt16" i]
+ehr.oneharim.com##div[class*="logo" i]
+ehr.oneharim.com##img[src*="EmpPhoto" i]
 ||oneharim.com/favicon.$image
 
 !---------------------------------------------------------
 
 ! For MSN(MS Edge)(2021) (On Test)
 ! Added on 14 Jul 2021
-!ntp.msn.com##div[data-t="{"n":"NativeAd","t":8}"]
-msn.com##div[data-t*="NativeAd"]
-msn.com##div[class^="nativeAd"]
+!ntp.msn.com##div[data-t="{"n":"NativeAd","t":8}" i]
+msn.com##div[data-t*="NativeAd" i]
+msn.com##div[class^="nativeAd" i]
 
 !---------------------------------------------------------
 
 ! For APTI(아파트아이,아파트관리비) Remove Ads
 ! Added on 14 Jul 2021
-apti.co.kr##div[id="fBanner"]
+apti.co.kr##div[id="fBanner" i]
 
 !---------------------------------------------------------
 
@@ -603,12 +603,13 @@ youtube.com##[id*="-donate-"]
 
 ! For SkyScanner
 ! Added on 09 Nov 2025
-skyscanner.*##a[class*="hotelLink"]
-skyscanner.*##[class*="advert"]
-skyscanner.*##[class*="InlineTextBanner"]
-skyscanner.*##[class*="Recommendation"]
+skyscanner.*##a[class*="hotelLink" i]
+skyscanner.*##[class*="advert" i]
+skyscanner.*##[class*="InlineTextBanner" i]
+skyscanner.*##[class*="Recommendation" i]
 
 !---------------------------------------------------------
+
 
 
 
