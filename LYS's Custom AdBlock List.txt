@@ -369,6 +369,9 @@ farmsco.com##img[src*="lock_logo"]
 oneharim.com##img[src*="logo"]
 oneharim.com##img[src*="login"]
 oneharim.com##div[class*="visual-login"]
+ehr.oneharim.com##div[class="mt16"]
+ehr.oneharim.com##div[class*="logo"]
+ehr.oneharim.com##img[src*="EmpPhoto"]
 ||oneharim.com/favicon.$image
 
 !---------------------------------------------------------
@@ -606,6 +609,7 @@ skyscanner.*##[class*="InlineTextBanner"]
 skyscanner.*##[class*="Recommendation"]
 
 !---------------------------------------------------------
+
 
 
 
