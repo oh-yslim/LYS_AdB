@@ -330,6 +330,10 @@ m.naver.com##div[id="MM_search_container"]
 ! 뒷 배경 달? 제거
 naver.com##svg[id="timeboard-svg"]
 
+! Added on 10 Nov 2025
+!! For Naver Pay
+pay.naver.com##[class*="banner" i]
+
 !---------------------------------------------------------
 
 ! For thebook.io
@@ -609,6 +613,7 @@ skyscanner.*##[class*="InlineTextBanner" i]
 skyscanner.*##[class*="Recommendation" i]
 
 !---------------------------------------------------------
+
 
 
 
