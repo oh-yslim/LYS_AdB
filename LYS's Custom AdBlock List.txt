@@ -376,7 +376,7 @@ oneharim.com##div[class*="visual-login" i]
 ehr.oneharim.com##div[class="mt16" i]
 ehr.oneharim.com##div[class*="logo" i]
 ehr.oneharim.com##img[src*="EmpPhoto" i]
-||oneharim.com/favicon.$image
+||oneharim.com^*favicon*$image
 
 !---------------------------------------------------------
 
@@ -613,6 +613,7 @@ skyscanner.*##[class*="InlineTextBanner" i]
 skyscanner.*##[class*="Recommendation" i]
 
 !---------------------------------------------------------
+
 
 
 
