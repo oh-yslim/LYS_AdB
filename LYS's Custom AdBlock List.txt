@@ -617,9 +617,10 @@ skyscanner.*##[class*="Recommendation" i]
 
 ! For ChatGPT
 ! Added on 16 Dec 2025
-chatgpts.*##button[data-testid="report-message-turn-action-button" i]
+chatgpt.*##button[data-testid="report-message-turn-action-button" i]
 
 !---------------------------------------------------------
+
 
 
 
