@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 16 Dec 2025
+! Last modified: 20 Jan 2026
 
 !---------------------------------------------------------
 ! Chrome Inspect Element Tool & Shortcut
@@ -613,6 +613,9 @@ skyscanner.*##[class*="advert" i]
 skyscanner.*##[class*="InlineTextBanner" i]
 skyscanner.*##[class*="Recommendation" i]
 
+! Added on 20 Jan 2026
+skyscanner.*##[class*="UnpricedBrandInline" i]
+
 !---------------------------------------------------------
 
 ! For ChatGPT
@@ -620,6 +623,7 @@ skyscanner.*##[class*="Recommendation" i]
 chatgpt.*##button[data-testid="report-message-turn-action-button" i]
 
 !---------------------------------------------------------
+
 
 
 
