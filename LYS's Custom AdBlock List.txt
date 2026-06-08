@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 25 Apr 2026
+! Last modified: 08 Jun 2026
 
 !---------------------------------------------------------
 ! Chrome Inspect Element Tool & Shortcut
@@ -625,21 +625,10 @@ chatgpt.*##button[data-testid="report-message-turn-action-button" i]
 
 !---------------------------------------------------------
 
+! For 9tsu
+! Added on 08 Jun 2026
+8tsu.*##[class*="logo" i]
+9tsu.*##[class*="logo" i]
+5mio.*##[class*="logo" i]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+!---------------------------------------------------------
