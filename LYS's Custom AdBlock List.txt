@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 08 Jun 2026
+! Last modified: 01 Aug 2026
 
 !---------------------------------------------------------
 ! Chrome Inspect Element Tool & Shortcut
@@ -616,6 +616,10 @@ skyscanner.*##[class*="PlaceCard_imageContainer" i]
 
 ! Added on 20 Jan 2026
 skyscanner.*##[class*="UnpricedBrandInline" i]
+
+! Added on 01 Aug 2026
+skyscanner.*##[class*="month-view-variant__hotel" i]
+skyscanner.*##[class*="total-cost-estimate-end" i]
 
 !---------------------------------------------------------
 
