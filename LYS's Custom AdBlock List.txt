@@ -628,7 +628,6 @@ skyscanner.*##[class*="total-cost-estimate-end" i]
 chatgpt.*##button[data-testid="report-message-turn-action-button" i]
 
 ! Added on 02 Aug 2026
-chatgpt.*##button[data-testid="report-message-turn-action-button" i]
 chatgpt.*##[class*="mt-auto grid" i]
 
 !---------------------------------------------------------
