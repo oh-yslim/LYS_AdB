@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 02 Aug 2026
+! Last modified: 17 Sep 2026
 
 !---------------------------------------------------------
 ! Chrome Inspect Element Tool & Shortcut
@@ -621,6 +621,9 @@ skyscanner.*##[class*="UnpricedBrandInline" i]
 skyscanner.*##[class*="month-view-variant__hotel" i]
 skyscanner.*##[class*="total-cost-estimate-end" i]
 
+! Added on 17 Sep 2026
+skyscanner.*##[data-testid="hotels-link"]
+ 
 !---------------------------------------------------------
 
 ! For ChatGPT
@@ -634,6 +637,7 @@ chatgpt.*##[class*="mt-auto" i]
 
 ! For 9tsu
 ! Added on 08 Jun 2026
+8tsu.net##[class="logo"]
 8tsu.*##[class*="logo" i]
 9tsu.*##[class*="logo" i]
 5mio.*##[class*="logo" i]
