@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 17 Sep 2026
+! Last modified: 23 Sep 2026
 
 !---------------------------------------------------------
 ! Chrome Inspect Element Tool & Shortcut
@@ -643,3 +643,13 @@ chatgpt.*##[class*="mt-auto" i]
 5mio.*##[class*="logo" i]
 
 !---------------------------------------------------------
+
+! For Jankara
+! Added on 23 Sep 2026
+jankara.ne.jp##[id="aboutapp"]
+
+!---------------------------------------------------------
+
+
+
+
