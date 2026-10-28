@@ -634,7 +634,10 @@ chatgpt.*##button[data-testid="report-message-turn-action-button" i]
 chatgpt.*##[class*="mt-auto" i]
 
 ! Added on 29 Oct 2026
+! Chatgpt Promotion Plan
 chatgpt.*##[class*="C1xTCG" i]
+! Chatgpt Footer
+chatgpt.*##[class*="Z8AOnR" i]
 
 !---------------------------------------------------------
 
