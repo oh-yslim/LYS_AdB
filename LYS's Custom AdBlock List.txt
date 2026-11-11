@@ -45,11 +45,19 @@
 ! #@#div[class^="fbar"] > span[class] > span[id^="fsl"] > a[class][href*="help"]
 
 ! Added on 11 Nov 2026
-! Retain Google's AI Overviews
-google.*#@#div:not([role]) > div[data-hveid] div[style^="margin-bottom:"][data-hveid]:has(div[id^="folsrch"])
-google.*#@#div[style^="margin-bottom:"] > div[style^="font-family:Google Sans,"][style*="position:relative"]:has(div[data-async-type="folsrch"])
-google.*#@#div[data-q][data-al]
-@@://www.google.*/async/folsrch?*$xhr
+! Allow Google AI Overview asynchronous requests.
+@@||www.google.*/async/folsrch$xhr,domain=www.google.*
+www.google.*#@#[data-attnms]
+www.google.*#@#.Kevs9.SLPe5b:has([data-attnms])
+www.google.*#@#.YNk70c.EjQTId:has(+ div [data-attnms]) #oFNiHe:empty
+www.google.*#@#.ULSxyf:has(> .MjjYud > .Wm5I1e.SePcAf[data-tma="80"] [data-attnms])
+www.google.*#@##rcnt:has([data-attnms]) .Ws2DOe .Y2jOfb
+www.google.com#@#.MjjYud:has(+ .MjjYud [data-attnms]) [data-prvwid="HEADER"] > .Ws2DOe
+
+! Google AI Visual Digest
+! www.google.*#@#.iVzeVc:has([data-attrid="VisualDigestGeneratedDescription"])
+! www.google.*#@#[data-attrid="VisualDigestGeneratedDescription"]
+! www.google.*#@#[data-ly="/desktop_aio_layout/GG/large_image"]:has([data-attrid="VisualDigestGeneratedDescription"])
 
 !---------------------------------------------------------
 
