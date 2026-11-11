@@ -55,9 +55,9 @@ www.google.*#@##rcnt:has([data-attnms]) .Ws2DOe .Y2jOfb
 www.google.com#@#.MjjYud:has(+ .MjjYud [data-attnms]) [data-prvwid="HEADER"] > .Ws2DOe
 
 ! Google AI Visual Digest
-! www.google.*#@#.iVzeVc:has([data-attrid="VisualDigestGeneratedDescription"])
-! www.google.*#@#[data-attrid="VisualDigestGeneratedDescription"]
-! www.google.*#@#[data-ly="/desktop_aio_layout/GG/large_image"]:has([data-attrid="VisualDigestGeneratedDescription"])
+www.google.*#@#.iVzeVc:has([data-attrid="VisualDigestGeneratedDescription"])
+www.google.*#@#[data-attrid="VisualDigestGeneratedDescription"]
+www.google.*#@#[data-ly="/desktop_aio_layout/GG/large_image"]:has([data-attrid="VisualDigestGeneratedDescription"])
 
 !---------------------------------------------------------
 
