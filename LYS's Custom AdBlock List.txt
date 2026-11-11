@@ -46,7 +46,9 @@
 
 ! Added on 11 Nov 2026
 ! Retain Google's AI Overviews
-@@||google.*/async/folsrch?$xhr
+google.*#@#div:not([role]) > div[data-hveid] div[style^="margin-bottom:"][data-hveid]:has(div[id^="folsrch"])
+google.*#@#div[style^="margin-bottom:"] > div[style^="font-family:Google Sans,"][style*="position:relative"]:has(div[data-async-type="folsrch"])
+google.*#@#div[data-q][data-al]
 
 !---------------------------------------------------------
 
