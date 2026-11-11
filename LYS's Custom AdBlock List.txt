@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 29 Oct 2026
+! Last modified: 11 Nov 2026
 
 !---------------------------------------------------------
 ! Chrome Inspect Element Tool & Shortcut
@@ -43,6 +43,10 @@
 
 !Error Occured
 ! #@#div[class^="fbar"] > span[class] > span[id^="fsl"] > a[class][href*="help"]
+
+! Added on 11 Nov 2026
+! Retain Google's AI Overviews
+@@||google.*/async/folsrch?$xhr
 
 !---------------------------------------------------------
 
