@@ -49,6 +49,7 @@
 google.*#@#div:not([role]) > div[data-hveid] div[style^="margin-bottom:"][data-hveid]:has(div[id^="folsrch"])
 google.*#@#div[style^="margin-bottom:"] > div[style^="font-family:Google Sans,"][style*="position:relative"]:has(div[data-async-type="folsrch"])
 google.*#@#div[data-q][data-al]
+@@://www.google.*/async/folsrch?*$xhr
 
 !---------------------------------------------------------
 
