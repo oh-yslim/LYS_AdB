@@ -393,6 +393,8 @@ ehr.oneharim.com##div[class*="logo" i]
 ehr.oneharim.com##img[src*="EmpPhoto" i]
 ||oneharim.com^*favicon*$image
 harim.com##img[src*="ci."]
+
+! Added on 24 Nov 2026
 harim.com##[class*="logo"]
 ||harim.com/*/log*.png$image
 
