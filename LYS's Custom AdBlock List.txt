@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: LYS's Custom AdBlock Plus List
-! Last modified: 11 Nov 2026
+! Last modified: 24 Nov 2026
 
 !---------------------------------------------------------
 ! Chrome Inspect Element Tool & Shortcut
@@ -393,6 +393,8 @@ ehr.oneharim.com##div[class*="logo" i]
 ehr.oneharim.com##img[src*="EmpPhoto" i]
 ||oneharim.com^*favicon*$image
 harim.com##img[src*="ci."]
+harim.com##[class*="logo"]
+||harim.com/*/log*.png$image
 
 !---------------------------------------------------------
 
